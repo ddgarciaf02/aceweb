@@ -1,3 +1,4 @@
-04:00;Velada Peso Supermediano;A. Murphy;D. McDonald;DAZN (Regístrate);
-13:30;Adidas Next Generation Fase de Clasificación;Real Madrid Baloncesto;Umana Reyer Venice;Real Madrid TV;
-20:30;Segunda Federación Futsal;Barça B FS;Unión África Ceutí;RFEF.es;
+11:15;Adidas Next Generation Fase de Clasificación;Olimpija Ljubljana;Real Madrid Baloncesto;Real Madrid TV;
+19:30;24 Horas de Daytona;Daytona International Speedway;Carrera;IMSA TV;
+19:30;Segunda Federación Futsal;AD Sala 10 Zaragoza;Melistar FS;Aragón Deporte;
+20:15;Adidas Next Generation Fase de Clasificación;FC Bayern Basketball;Real Madrid Baloncesto;Real Madrid TV;
