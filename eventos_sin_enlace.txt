@@ -1,4 +1,7 @@
-11:15;Adidas Next Generation Fase de Clasificación;Olimpija Ljubljana;Real Madrid Baloncesto;Real Madrid TV;
-19:30;24 Horas de Daytona;Daytona International Speedway;Carrera;IMSA TV;
-19:30;Segunda Federación Futsal;AD Sala 10 Zaragoza;Melistar FS;Aragón Deporte;
-20:15;Adidas Next Generation Fase de Clasificación;FC Bayern Basketball;Real Madrid Baloncesto;Real Madrid TV;
+00:00;NBA Liga Regular;Brooklyn Nets;Houston Rockets;ProSieben MAXX (M+ Astra);
+03:00;Cadel Evans Ocean Race;UCI World Tour;Geelong › Geelong (176,5 km);Eurosport Player;
+06:00;24 Horas de Daytona;Daytona International Speedway;Carrera;IMSA TV;
+12:30;Copa Princesa Asturias Final;Movistar Estudiantes;Básquet Coruña;LaLiga+ Plus;
+15:10;Copa del Mundo Ciclocross;Hoogerheide (Holanda);Carrera masculina;Eurosport Player;
+18:00;24 Horas de Daytona;Daytona International Speedway;Carrera;IMSA TV;
+BaloncestoESP;Aragón Deporte;Aragón TV;
