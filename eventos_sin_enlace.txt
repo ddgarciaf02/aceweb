@@ -3,5 +3,6 @@
 06:00;24 Horas de Daytona;Daytona International Speedway;Carrera;IMSA TV;
 12:30;Copa Princesa Asturias Final;Movistar Estudiantes;Básquet Coruña;LaLiga+ Plus;
 15:10;Copa del Mundo Ciclocross;Hoogerheide (Holanda);Carrera masculina;Eurosport Player;
+16:45;Adidas Next Generation Fase de Clasificación Final;Next Generation Select Team;Real Madrid Baloncesto;EuroLeague YouTube;Real Madrid TV;
 18:00;24 Horas de Daytona;Daytona International Speedway;Carrera;IMSA TV;
 BaloncestoESP;Aragón Deporte;Aragón TV;
