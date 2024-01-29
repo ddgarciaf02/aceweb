@@ -1,7 +1,8 @@
-02:00;WTA Torneo de Tailandia 1ª Ronda;D. Galfi;A. Tomljanovic;WTA TV;
-03:30;WTA Torneo de Tailandia 1ª Ronda;M. Linette;D. Shnaider;WTA TV;
-05:00;WTA Torneo de Tailandia 1ª Ronda;L. Tararudee;P. Badosa;WTA TV;
-14:00;WTA Torneo de Linz;1ª Ronda;WTA 500;WTA TV;
+08:00;WTA Torneo de Tailandia 1ª Ronda;D. Galfi;A. Tomljanovic;WTA TV;
+09:30;WTA Torneo de Tailandia 1ª Ronda;M. Linette;D. Shnaider;WTA TV;
+11:00;WTA Torneo de Tailandia 1ª Ronda;L. Tararudee;P. Badosa;WTA TV;
+14:00;WTA Torneo de Linz 1ª Ronda;M. Trevisan;A. Pavlyuchenkova;WTA TV;
+15:30;WTA Torneo de Linz 1ª Ronda;K. Boulter;J. Paolini;WTA TV;
 17:00;Torneo de Montpellier 1ª Ronda;B. Bonzi;M. Mmoh;ATP Tennis TV;
 19:00;Torneo de Montpellier 1ª Ronda;A. Murray;B. Paire;ATP Tennis TV;
 20:30;Torneo de Montpellier 1ª Ronda;J. Munar;P. Martínez;ATP Tennis TV;
