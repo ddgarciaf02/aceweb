@@ -4,7 +4,6 @@
 12:30;WTA Torneo de Tailandia 2ª Ronda;V. Golubic;Y. Putintseva;WTA TV;
 13:30;WTA Torneo de Linz 1ª Ronda;D. Yastremska;E. Andreeva;WTA TV;DAZN (Regístrate);
 14:30;Torneo de Montpellier 2ª Ronda;M. Mmoh;A. Muller;ATP Tennis TV;
-15:00;Etoile de Bessèges;Etapa 1;Bellegarde › Bellegarde (160,6 km);Eurosport Player;
 16:00;Torneo de Montpellier 1ª Ronda;F. Cobolli;G. Monfils;ATP Tennis TV;
 16:00;WTA Torneo de Linz 1ª Ronda;P. Martic;K. Siniakova;WTA TV;DAZN (Regístrate);
 18:00;Eurocup Liga Regular;Türk Telekom Ankara;JL Bourg;EuroLeague TV;
