@@ -5,6 +5,7 @@
 14:00;WTA Torneo de Linz 2ª Ronda;E. Mertens;L. Bronzetti;WTA TV;DAZN (Regístrate);
 14:30;Torneo de Montpellier 2ª Ronda;B. Coric;P. Martínez;ATP Tennis TV;
 16:00;Torneo de Montpellier 2ª Ronda;C. Lestienne;F. Cobolli;ATP Tennis TV;
+18:30;WTA Torneo de Linz 2ª Ronda;A. Potapova;E. Cocciaretto;WTA TV;DAZN (Regístrate);
 19:00;Torneo de Montpellier 2ª Ronda;A. Cazaux;F. Auger-Aliassime;ATP Tennis TV;
 20:00;WTA Torneo de Linz 2ª Ronda;J. Ostapenko;C. Tauson;WTA TV;DAZN (Regístrate);
 20:30;Torneo de Montpellier 2ª Ronda;H. Rune;P. Llamas;ATP Tennis TV;
