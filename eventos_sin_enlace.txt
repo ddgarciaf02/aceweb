@@ -2,12 +2,12 @@
 09:30;WTA Torneo de Tailandia 1/4 de Final;A. Rodionova;L. Zhu;WTA TV;DAZN (Regístrate);
 11:00;WTA Torneo de Tailandia 1/4 de Final;D. Shnaider;D. Galfi;WTA TV;DAZN (Regístrate);
 12:30;WTA Torneo de Tailandia 1/4 de Final;Y. Wang;K. Volynets;WTA TV;DAZN (Regístrate);
-13:00;WTA Torneo de Linz 1/4 de Final;A. Potapova;E. Alexandrova;WTA TV;DAZN (Regístrate);
 13:00;WTA Torneo de Linz 1/4 de Final;C. Burel;D. Vekic;WTA TV;DAZN (Regístrate);
-13:00;WTA Torneo de Linz 1/4 de Final;E. Mertens;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);
-13:00;WTA Torneo de Linz 1/4 de Final;TBD;J. Burrage;WTA TV;DAZN (Regístrate);
 14:30;Torneo de Montpellier 1/4 de Final;A. Shevchenko;A. Bublik;ATP Tennis TV;
+14:30;WTA Torneo de Linz 1/4 de Final;A. Potapova;E. Alexandrova;WTA TV;DAZN (Regístrate);
 16:00;Torneo de Montpellier 1/4 de Final;H. Mayot;F. Auger-Aliassime;ATP Tennis TV;
-19:00;Torneo de Montpellier 1/4 de Final;TBD;M. Mmoh;ATP Tennis TV;
+17:00;WTA Torneo de Linz 1/4 de Final;J. Ostapenko;J. Burrage;WTA TV;DAZN (Regístrate);
+18:30;WTA Torneo de Linz 1/4 de Final;E. Mertens;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);
+19:00;Torneo de Montpellier 1/4 de Final;H. Rune;M. Mmoh;ATP Tennis TV;
 20:30;Torneo de Montpellier 1/4 de Final;B. Coric;F. Cobolli;ATP Tennis TV;
 BaloncestoESP;
