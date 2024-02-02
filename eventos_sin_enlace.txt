@@ -9,5 +9,6 @@
 17:00;WTA Torneo de Linz 1/4 de Final;J. Ostapenko;J. Burrage;WTA TV;DAZN (Regístrate);
 18:30;WTA Torneo de Linz 1/4 de Final;E. Mertens;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);
 19:00;Torneo de Montpellier 1/4 de Final;H. Rune;M. Mmoh;ATP Tennis TV;
+20:30;Amistoso;Manzanares FS;Jaén FS;CMMPlay (Castilla-LM);
 20:30;Torneo de Montpellier 1/4 de Final;B. Coric;F. Cobolli;ATP Tennis TV;
 BaloncestoESP;
