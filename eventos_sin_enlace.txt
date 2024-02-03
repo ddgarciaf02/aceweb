@@ -1,7 +1,3 @@
-04:00;Título Continental Peso Welter;Q. Toler;V. Panin;DAZN (Regístrate);
-14:30;WTA Torneo de Linz Semifinal 2 WTA 500;J. Ostapenko;A. Pavlyuchenkova;WTA TV;DAZN (Regístrate);
-15:00;Torneo de Montpellier Semifinal 1 ATP 250;F. Auger-Aliassime;A. Bublik;ATP Tennis TV;
-16:30;Torneo de Montpellier Semifinal 2 ATP 250;H. Rune;B. Coric;ATP Tennis TV;
-17:00;Segunda Federación Futsal;Full Energía Zaragoza;Club Sala 5 Martorell;Aragón Deporte;
-19:00;Segunda Federación Futsal;CD Leganés FS;AD Sala 10 Zaragoza;RFEF.es;
-19:00;Velada Peso Semipesado;J. Buatsi;D. Azeez;Fight Sports Max;
+14:00;WTA Torneo de Linz Final WTA 500;J. Ostapenko;E. Alexandrova;WTA TV;DAZN (Regístrate);
+15:00;Amistoso;Alemania;España;RTVE Play;
+16:00;Torneo de Montpellier Final ATP 250;B. Coric;A. Bublik;ATP Tennis TV;
