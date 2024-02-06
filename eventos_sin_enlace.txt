@@ -15,10 +15,12 @@
 18:30;Amistoso;Alemania;España;RTVE Play;
 18:30;Basketball Champions League Top 16;AEK BC;UCAM Murcia CB;Popular TV Murcia;
 18:30;WTA Torneo de Cluj-Napoca 1ª Ronda;K. Pliskova;S. Kraus;WTA TV;
-19:00;Torneo de Dallas;1ª Ronda;ATP 250;ATP Tennis TV;
+19:00;Torneo de Dallas 1ª Ronda;T. Sandgren;A. Michelsen;ATP Tennis TV;
 19:30;Eurocup Liga Regular;Hamburg Towers;Umana Reyer Venice;EuroLeague TV;
 19:30;Eurocup Liga Regular;JL Bourg;Ratiopharm Ulm;EuroLeague TV;
 19:30;Torneo de Córdoba 1ª Ronda;M. Navone;R. Carballés;ATP Tennis TV;
 19:30;Torneo de Marsella 1ª Ronda;S. Korda;H. Grenier;ATP Tennis TV;
 20:00;Eurocup Liga Regular;WKS Slask Wroclaw;Türk Telekom Ankara;EuroLeague TV;
+20:30;Torneo de Dallas 1ª Ronda;S. Johnson;C. Eubanks;ATP Tennis TV;
+22:00;Torneo de Dallas 1ª Ronda;E. Nava;M. Mmoh;ATP Tennis TV;
 22:30;Torneo de Córdoba 1ª Ronda;RA. Burruchaga;D. Schwartzman;ATP Tennis TV;
