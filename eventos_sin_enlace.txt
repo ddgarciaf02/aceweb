@@ -1,5 +1,5 @@
-00:00;Torneo de Córdoba 1ª Ronda;F. Díaz Acosta;FA. Gomez;ATP Tennis TV;
-02:00;Torneo de Dallas 1ª Ronda;M. Krueger;M. Purcell;ATP Tennis TV;
+01:00;Torneo de Córdoba 1ª Ronda;F. Díaz Acosta;FA. Gomez;ATP Tennis TV;
+02:20;Torneo de Dallas 1ª Ronda;M. Krueger;M. Purcell;ATP Tennis TV;
 09:30;WTA Torneo de Abu Dhabi 1ª Ronda;A. Eala;M. Linette;WTA TV;DAZN (Regístrate);
 10:00;WTA Torneo de Cluj-Napoca 1ª Ronda;A. Cornet;Y. Wickmayer;WTA TV;
 11:00;WTA Torneo de Abu Dhabi 1ª Ronda;N. Osaka;D. Collins;WTA TV;DAZN (Regístrate);
