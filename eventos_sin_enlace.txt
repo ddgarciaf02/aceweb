@@ -1,13 +1,13 @@
 02:05;Torneo de Dallas 1ª Ronda;J. Thompson;A. Neff;ATP Tennis TV;
 03:00;Torneo de Córdoba 1ª Ronda;TA. Tirante;F. Comesana;ATP Tennis TV;
 03:45;Torneo de Dallas 1ª Ronda;D. Koepfer;A. Kovacevic;ATP Tennis TV;
-07:00;WTA Torneo de Abu Dhabi 2ª Ronda;D. Kasatkina;A. Krueger;WTA TV;DAZN (Regístrate);
-08:30;WTA Torneo de Abu Dhabi 2ª Ronda;B. Haddad Maia;M. Linette;WTA TV;DAZN (Regístrate);
-10:00;WTA Torneo de Abu Dhabi 2ª Ronda;S. Cirstea;M. Sakkari;WTA TV;DAZN (Regístrate);
+10:00;WTA Torneo de Abu Dhabi 2ª Ronda;D. Kasatkina;A. Krueger;WTA TV;DAZN (Regístrate);
 10:00;WTA Torneo de Cluj-Napoca 1ª Ronda;E. Cocciaretto;E. Arango;WTA TV;
-11:30;WTA Torneo de Abu Dhabi 2ª Ronda;E. Raducanu;O. Jabeur;WTA TV;DAZN (Regístrate);
+11:30;WTA Torneo de Abu Dhabi 2ª Ronda;B. Haddad Maia;M. Linette;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Cluj-Napoca 1ª Ronda;S. Errani;C. McNally;WTA TV;
+13:00;WTA Torneo de Abu Dhabi 2ª Ronda;S. Cirstea;M. Sakkari;WTA TV;DAZN (Regístrate);
 13:30;Torneo de Marsella 2ª Ronda;E. Ruusuvuori;L. Van Assche;ATP Tennis TV;
+14:30;WTA Torneo de Abu Dhabi 2ª Ronda;E. Raducanu;O. Jabeur;WTA TV;DAZN (Regístrate);
 14:30;WTA Torneo de Cluj-Napoca 2ª Ronda;N. Parrizas Díaz;A. Blinkova;WTA TV;
 15:00;Torneo de Marsella 2ª Ronda;F. Auger-Aliassime;Q. Halys;ATP Tennis TV;
 17:00;WTA Torneo de Cluj-Napoca 2ª Ronda;A. Rus;A. Cornet;WTA TV;
