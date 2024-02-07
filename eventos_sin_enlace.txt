@@ -21,7 +21,7 @@
 19:00;Eurocup Liga Regular;Hapoel Tel Aviv BC;Besiktas JK Istanbul;EuroLeague TV;
 19:00;Torneo de Dallas 2ª Ronda;M. Giron;M. Purcell;ATP Tennis TV;
 19:30;Torneo de Marsella 2ª Ronda;U. Humbert;H. Gaston;ATP Tennis TV;
-20:00;Basketball Champions League Top 16;Hapoel Jerusalem;Lenovo Tenerife;Courtside 1891;
+20:00;Basketball Champions League Top 16;Hapoel Jerusalem;Lenovo Tenerife;Courtside 1891 Max;
 20:00;FIBA Europe Cup Segunda Ronda;Bilbao Basket;BC Balkan Botevgrad;FIBA YouTube;ETB4 (País Vasco);
 20:00;FIBA Europe Cup Segunda Ronda;Casademont Zaragoza;Manisa BBSK;FIBA YouTube;Aragón Deporte;
 20:00;Torneo de Córdoba 2ª Ronda;F. Bagnis;R. Carballés;ATP Tennis TV;
