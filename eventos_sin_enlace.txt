@@ -4,6 +4,7 @@
 10:00;WTA Torneo de Cluj-Napoca 2ª Ronda;E. Cocciaretto;H. Dart;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Abu Dhabi 2ª Ronda;A. Kalinina;L. Samsonova;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Cluj-Napoca 2ª Ronda;A. Sevastova;E. Avanesyan;WTA TV;DAZN (Regístrate);
+12:00;Preolímpico Femenino;China;Nueva Zelanda;DAZN (Regístrate);
 13:00;WTA Torneo de Abu Dhabi 2ª Ronda;E. Rybakina;D. Collins;WTA TV;DAZN (Regístrate);
 13:00;WTA Torneo de Cluj-Napoca 2ª Ronda;S. Errani;T. Maria;WTA TV;DAZN (Regístrate);
 13:30;Torneo de Marsella 2ª Ronda;F. Auger-Aliassime;Zh. Zhang;ATP Tennis TV;
@@ -15,8 +16,12 @@
 17:30;Eurobasket Femenino Fase de Clasificación;Israel;República Irlanda;FIBA YouTube;
 18:00;Torneo de Córdoba 2ª Ronda;L. Darderi;S. Ofner;ATP Tennis TV;
 18:00;Torneo de Marsella 2ª Ronda;H. Hurkacz;A. Shevchenko;ATP Tennis TV;
+18:15;Preolímpico Femenino;Senegal;Nigeria;DAZN (Regístrate);
+19:00;Preolímpico Femenino;Hungría;Canadá;DAZN (Regístrate);
 19:00;Torneo de Dallas 2ª Ronda;D. Koepfer;R. Hijikata;ATP Tennis TV;
 19:30;Torneo de Córdoba 2ª Ronda;Y. Hanfmann;RA. Burruchaga;ATP Tennis TV;
 19:30;Torneo de Marsella 2ª Ronda;J. Lehecka;A. Rinderknech;ATP Tennis TV;
 20:30;Torneo de Dallas 2ª Ronda;J. Thompson;D. Kudla;ATP Tennis TV;
+20:45;Preolímpico Femenino;Estados Unidos;Bélgica;DAZN (Regístrate);
+21:00;Preolímpico Femenino;Alemania;Serbia;DAZN (Regístrate);
 22:30;Torneo de Córdoba 2ª Ronda;H. Dellien;S. Báez;ATP Tennis TV;
