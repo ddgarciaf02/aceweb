@@ -1,6 +1,7 @@
 00:00;Torneo de Córdoba 2ª Ronda;TM. Etcheverry;B. Zapata;ATP Tennis TV;
 02:00;Torneo de Dallas 2ª Ronda;M. Mmoh;B. Shelton;ATP Tennis TV;
 03:30;Torneo de Dallas 2ª Ronda;T. Daniel;T. Paul;ATP Tennis TV;
+09:30;Preolímpico Femenino;Puerto Rico;Francia;DAZN (Regístrate);
 10:00;WTA Torneo de Cluj-Napoca 2ª Ronda;E. Cocciaretto;H. Dart;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Abu Dhabi 2ª Ronda;A. Kalinina;L. Samsonova;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Cluj-Napoca 2ª Ronda;A. Sevastova;E. Avanesyan;WTA TV;DAZN (Regístrate);
