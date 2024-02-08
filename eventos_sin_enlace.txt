@@ -1,7 +1,6 @@
 00:00;Torneo de Córdoba 2ª Ronda;TM. Etcheverry;B. Zapata;ATP Tennis TV;
 02:00;Torneo de Dallas 2ª Ronda;M. Mmoh;B. Shelton;ATP Tennis TV;
 03:30;Torneo de Dallas 2ª Ronda;T. Daniel;T. Paul;ATP Tennis TV;
-10:00;WTA Torneo de Abu Dhabi 2ª Ronda;B. Krejcikova;S. Sorribes;WTA TV;DAZN (Regístrate);
 10:00;WTA Torneo de Cluj-Napoca 2ª Ronda;E. Cocciaretto;H. Dart;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Abu Dhabi 2ª Ronda;A. Kalinina;L. Samsonova;WTA TV;DAZN (Regístrate);
 11:30;WTA Torneo de Cluj-Napoca 2ª Ronda;A. Sevastova;E. Avanesyan;WTA TV;DAZN (Regístrate);
@@ -16,7 +15,8 @@
 17:30;Eurobasket Femenino Fase de Clasificación;Israel;República Irlanda;FIBA YouTube;
 18:00;Torneo de Córdoba 2ª Ronda;L. Darderi;S. Ofner;ATP Tennis TV;
 18:00;Torneo de Marsella 2ª Ronda;H. Hurkacz;A. Shevchenko;ATP Tennis TV;
-19:00;Torneo de Dallas;2ª Ronda;ATP 250;ATP Tennis TV;
+19:00;Torneo de Dallas 2ª Ronda;D. Koepfer;R. Hijikata;ATP Tennis TV;
 19:30;Torneo de Córdoba 2ª Ronda;Y. Hanfmann;RA. Burruchaga;ATP Tennis TV;
 19:30;Torneo de Marsella 2ª Ronda;J. Lehecka;A. Rinderknech;ATP Tennis TV;
+20:30;Torneo de Dallas 2ª Ronda;J. Thompson;D. Kudla;ATP Tennis TV;
 22:30;Torneo de Córdoba 2ª Ronda;H. Dellien;S. Báez;ATP Tennis TV;
