@@ -1,15 +1,17 @@
 00:00;Preolímpico Femenino;Brasil;Australia;DAZN (Regístrate);
-00:00;Torneo de Córdoba 2ª Ronda;TA. Tirante;F. Díaz Acosta;ATP Tennis TV;
 02:00;Torneo de Dallas 2ª Ronda;F. Tiafoe;A. Michelsen;ATP Tennis TV;
 03:30;Torneo de Dallas 2ª Ronda;A. Mannarino;Y. Nishioka;ATP Tennis TV;
 13:00;WTA Torneo de Cluj-Napoca 1/4 de Final;H. Dart;N. Parrizas Díaz;WTA TV;DAZN (Regístrate);
 14:00;Tour de la Provenza;Etapa 1;Aix-en-Provence › Martigues (157,2 km);Eurosport Player;
 14:30;Torneo de Marsella 1/4 de Final;U. Humbert;A. Davidovich;ATP Tennis TV;
 14:30;WTA Torneo de Cluj-Napoca 1/4 de Final;J. Cristian;A. Sevastova;WTA TV;DAZN (Regístrate);
+16:00;Torneo de Córdoba 2ª Ronda;Y. Hanfmann;RA. Burruchaga;ATP Tennis TV;
 16:00;Torneo de Marsella 1/4 de Final;H. Hurkacz;T. Machac;ATP Tennis TV;
 16:00;WTA Torneo de Cluj-Napoca 1/4 de Final;A. Rus;A. Bogdan;WTA TV;DAZN (Regístrate);
 16:30;Torneo de Córdoba;1/4 de Final;ATP 250;ATP Tennis TV;
 16:30;Ultimate Tennis Showdown Fase de grupos;A. Rublev;B. Paire;Tennis Channel (Orange 104);Eurosport Player;
+17:00;Torneo de Córdoba 2ª Ronda;H. Dellien;S. Báez;ATP Tennis TV;
+17:00;Torneo de Córdoba 2ª Ronda;TA. Tirante;F. Díaz Acosta;ATP Tennis TV;
 17:30;Ultimate Tennis Showdown Fase de grupos;H. Rune;D. Thiem;Tennis Channel (Orange 104);Eurosport Player;
 17:30;WTA Torneo de Cluj-Napoca 1/4 de Final;S. Errani;K. Pliskova;WTA TV;DAZN (Regístrate);
 18:00;Preolímpico Femenino;Japón;Hungría;DAZN (Regístrate);
