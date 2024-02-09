@@ -16,9 +16,10 @@
 18:00;Torneo de Marsella 1/4 de Final;Zh. Zhang;K. Khachanov;ATP Tennis TV;
 18:15;Preolímpico Femenino;Nigeria;Estados Unidos;DAZN (Regístrate);
 18:30;Ultimate Tennis Showdown Fase de grupos;A. De Miñaur;G. Monfils;Tennis Channel (Orange 104);Eurosport Player;
-19:00;Torneo de Dallas;1/4 de Final;ATP 250;ATP Tennis TV;
-19:30;Torneo de Marsella 1/4 de Final;G. Dimitrov;TBD;ATP Tennis TV;
+19:00;Torneo de Dallas 1/4 de Final;D. Koepfer;T. Paul;ATP Tennis TV;
+19:30;Torneo de Marsella 1/4 de Final;A. Rinderknech;G. Dimitrov;ATP Tennis TV;
 20:00;Ultimate Tennis Showdown Fase de grupos;A. Bublik;D. Thiem;Tennis Channel (Orange 104);Eurosport Player;
+20:30;Torneo de Dallas 1/4 de Final;J. Thompson;B. Shelton;ATP Tennis TV;
 20:45;Preolímpico Femenino;Bélgica;Senegal;DAZN (Regístrate);
 21:00;Ultimate Tennis Showdown Fase de grupos;H. Rune;C. Ruud;Tennis Channel (Orange 104);Eurosport Player;
 22:00;Ultimate Tennis Showdown Fase de grupos;G. Monfils;B. Paire;Tennis Channel (Orange 104);Eurosport Player;
