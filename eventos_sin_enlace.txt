@@ -11,15 +11,14 @@
 16:00;Premier League;Luton Town;Sheffield United;DAZN (Regístrate);
 16:00;Ultimate Tennis Showdown Fase de grupos;A. De Miñaur;B. Paire;Tennis Channel (Orange 104);Eurosport Player;
 16:00;WTA Torneo de Cluj-Napoca Semifinal 2 WTA 250;A. Bogdan;J. Cristian;WTA TV;DAZN (Regístrate);
-16:30;Torneo de Córdoba;Semifinal 1;ATP 250;ATP Tennis TV;
 16:30;Torneo de Marsella Semifinal 1 ATP 250;H. Hurkacz;U. Humbert;ATP Tennis TV;
 17:30;Ultimate Tennis Showdown Fase de grupos;C. Ruud;D. Thiem;Tennis Channel (Orange 104);Eurosport Player;
 18:00;Torneo de Marsella Semifinal 2 ATP 250;K. Khachanov;G. Dimitrov;ATP Tennis TV;
 18:30;Segunda Federación Futsal;Levante UD FS;Full Energía Zaragoza;Aragón Deporte;RFEF.es;
 18:30;Ultimate Tennis Showdown Fase de grupos;H. Rune;A. Bublik;Tennis Channel (Orange 104);Eurosport Player;
 19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;Unión África Ceutí;Aragón Deporte;
-19:30;Torneo de Córdoba;Semifinal 2;ATP 250;ATP Tennis TV;
 19:30;Ultimate Tennis Showdown Fase de grupos;A. Rublev;G. Monfils;Tennis Channel (Orange 104);Eurosport Player;
 21:00;Preolímpico Femenino;Australia;Alemania;DAZN (Regístrate);
-21:00;Torneo de Dallas;Semifinal 1;ATP 250;ATP Tennis TV;
-23:00;Torneo de Dallas;Semifinal 2;ATP 250;ATP Tennis TV;
+21:00;Torneo de Dallas Semifinal 1 ATP 250;B. Shelton;T. Paul;ATP Tennis TV;
+22:00;Torneo de Córdoba Semifinal 1 ATP 250;F. Bagnis;F. Coria;ATP Tennis TV;
+23:30;Torneo de Córdoba Semifinal 2 ATP 250;L. Darderi;S. Báez;ATP Tennis TV;
