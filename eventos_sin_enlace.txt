@@ -1,5 +1,6 @@
 02:00;Torneo de Dallas 1/4 de Final;F. Tiafoe;M. Giron;ATP Tennis TV;
 03:30;Torneo de Dallas 1/4 de Final;A. Mannarino;J. Duckworth;ATP Tennis TV;
+08:20;Tour de Omán;Etapa 1;Oman Across Ages Museum › Oman Convention and Exhibition Centre (OCEC) (181,5 km);OmanSportsTV YouTube;
 10:30;Preolímpico Femenino;Francia;China;DAZN (Regístrate);
 12:00;Preolímpico Femenino;Nueva Zelanda;Puerto Rico;DAZN (Regístrate);
 12:00;WTA Torneo de Abu Dhabi Semifinal 1 WTA 500;D. Kasatkina;B. Haddad Maia;WTA TV;DAZN (Regístrate);
