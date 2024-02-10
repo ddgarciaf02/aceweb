@@ -18,7 +18,7 @@
 18:30;Segunda Federación Futsal;Levante UD FS;Full Energía Zaragoza;Aragón Deporte;RFEF.es;
 18:30;Ultimate Tennis Showdown Fase de grupos;H. Rune;A. Bublik;Tennis Channel (Orange 104);Eurosport Player;
 19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;Unión África Ceutí;Aragón Deporte;
-19:30;Ultimate Tennis Showdown Fase de grupos;A. Rublev;G. Monfils;Tennis Channel (Orange 104);Eurosport Player;
+19:30;Ultimate Tennis Showdown Fase de grupos;A. Rublev;L. Pouille;Tennis Channel (Orange 104);Eurosport Player;
 21:00;Preolímpico Femenino;Australia;Alemania;DAZN (Regístrate);
 21:00;Torneo de Dallas Semifinal 1 ATP 250;B. Shelton;T. Paul;ATP Tennis TV;
 22:00;Torneo de Córdoba Semifinal 1 ATP 250;F. Bagnis;F. Coria;ATP Tennis TV;
