@@ -13,10 +13,10 @@
 15:10;Tour de la Provenza;Etapa 3;Rognac › Arles (183,2 km);Eurosport Player;
 15:30;Torneo de Marsella Final ATP 250;U. Humbert;G. Dimitrov;ATP Tennis TV;
 16:00;Eurobasket Femenino Fase de Clasificación;Letonia;Israel;FIBA YouTube;
-16:30;WTA Doha 1ª Ronda WTA 1000;A. Krueger;P. Badosa;WTA TV;DAZN (Regístrate);
 16:45;Preolímpico Femenino;Bélgica;Nigeria;DAZN (Regístrate);
-18:00;WTA Doha 1ª Ronda WTA 1000;E. Navarro;J. Paolini;WTA TV;DAZN (Regístrate);
+18:30;WTA Doha 1ª Ronda WTA 1000;A. Krueger;P. Badosa;WTA TV;DAZN (Regístrate);
 19:15;Preolímpico Femenino;Senegal;Estados Unidos;DAZN (Regístrate);
 20:00;Torneo de Dallas Final ATP 250;M. Giron;T. Paul;ATP Tennis TV;
+20:00;WTA Doha 1ª Ronda WTA 1000;E. Navarro;J. Paolini;WTA TV;DAZN (Regístrate);
 21:00;Preolímpico Femenino;Serbia;Australia;DAZN (Regístrate);
 23:00;Torneo de Córdoba Final ATP 250;F. Bagnis;L. Darderi;ATP Tennis TV;
