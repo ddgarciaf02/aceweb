@@ -8,7 +8,7 @@
 13:30;Ultimate Tennis Showdown Semifinales;A. Rublev;A. Bublik;Tennis Channel (Orange 104);Eurosport Player;
 13:30;WTA Doha 1ª Ronda WTA 1000;D. Vekic;K. Siniakova;WTA TV;DAZN (Regístrate);
 15:00;Preolímpico Femenino;Canadá;Japón;DAZN (Regístrate);
-15:00;Ultimate Tennis Showdown;Final;Tennis Channel (Orange 104);Eurosport Player;
+15:00;Ultimate Tennis Showdown Final;A. De Miñaur;A. Rublev;Tennis Channel (Orange 104);Eurosport Player;
 15:00;WTA Doha 1ª Ronda WTA 1000;S. Cirstea;S. Stephens;WTA TV;DAZN (Regístrate);
 15:10;Tour de la Provenza;Etapa 3;Rognac › Arles (183,2 km);Eurosport Player;
 15:30;Torneo de Marsella Final ATP 250;U. Humbert;G. Dimitrov;ATP Tennis TV;
