@@ -1,12 +1,10 @@
 00:00;Preolímpico Femenino;Brasil;Alemania;DAZN (Regístrate);
 07:00;Tour de Omán;Etapa 3;Bid Bid › Eastern Mountain (169,3 km);OmanSportsTV YouTube;
-10:00;WTA Doha 1ª Ronda;E. Navarro;J. Paolini;WTA TV;DAZN (Regístrate);
-10:30;WTA Doha 1ª Ronda;A. Krueger;P. Badosa;WTA TV;DAZN (Regístrate);
-12:00;WTA Doha 1ª Ronda;M. Frech;V. Azarenka;WTA TV;DAZN (Regístrate);
-13:30;WTA Doha 1ª Ronda;N. Osaka;C. García;WTA TV;DAZN (Regístrate);
-15:00;WTA Doha 2ª Ronda;I. Swiatek;S. Cirstea;WTA TV;DAZN (Regístrate);
-16:30;WTA Doha 2ª Ronda;M. Vondrousova;G. Minnen;WTA TV;DAZN (Regístrate);
+13:30;WTA Doha 1ª Ronda;M. Frech;V. Azarenka;WTA TV;DAZN (Regístrate);
+15:00;WTA Doha 1ª Ronda;N. Osaka;C. García;WTA TV;DAZN (Regístrate);
+16:30;WTA Doha 2ª Ronda;I. Swiatek;S. Cirstea;WTA TV;DAZN (Regístrate);
 17:30;Torneo de Buenos Aires 1ª Ronda;F. Díaz Acosta;D. Altmaier;ATP Tennis TV;
+18:00;WTA Doha 2ª Ronda;M. Vondrousova;G. Minnen;WTA TV;DAZN (Regístrate);
 19:00;Torneo de Buenos Aires 1ª Ronda;M. Cilic;L. Djere;ATP Tennis TV;
 19:00;Torneo de Delray Beach 1ª Ronda;C. Lestienne;A. Vukic;ATP Tennis TV;
 20:30;Torneo de Delray Beach 1ª Ronda;Y. Nishioka;M. Arnaldi;ATP Tennis TV;
