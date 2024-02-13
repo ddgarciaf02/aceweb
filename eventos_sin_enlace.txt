@@ -3,12 +3,12 @@
 02:20;Torneo de Delray Beach 1ª Ronda;P. Kypson;M. Kecmanovic;ATP Tennis TV;
 07:15;Tour de Omán;Etapa 4;Al Rustaq Fort › Yitti Hills (207,5 km);OmanSportsTV YouTube;
 13:00;WTA Doha 2ª Ronda;P. Badosa;L. Fernández;WTA TV;
-13:30;WTA Doha 1ª Ronda;X. Wang;V. Azarenka;WTA TV;DAZN (Regístrate);
-15:00;WTA Doha 1ª Ronda;K. Siniakova;C. Gauff;WTA TV;DAZN (Regístrate);
-16:30;WTA Doha 1ª Ronda;O. Jabeur;L. Tsurenko;WTA TV;DAZN (Regístrate);
+13:30;WTA Doha 2ª Ronda;X. Wang;V. Azarenka;WTA TV;DAZN (Regístrate);
+15:00;WTA Doha 2ª Ronda;K. Siniakova;C. Gauff;WTA TV;DAZN (Regístrate);
+16:30;WTA Doha 2ª Ronda;O. Jabeur;L. Tsurenko;WTA TV;DAZN (Regístrate);
 17:30;Torneo de Buenos Aires 1ª Ronda;S. Ofner;F. Coria;ATP Tennis TV;
-17:30;Torneo de Buenos Aires;1ª Ronda;ATP 250;ATP Tennis TV;
-18:00;WTA Doha 1ª Ronda;L. Zhu;E. Rybakina;WTA TV;DAZN (Regístrate);
+18:00;WTA Doha 2ª Ronda;L. Zhu;E. Rybakina;WTA TV;DAZN (Regístrate);
 19:00;Torneo de Buenos Aires 1ª Ronda;D. Schwartzman;D. Galán;ATP Tennis TV;
-19:00;Torneo de Delray Beach;1ª Ronda;ATP 250;ATP Tennis TV;
+19:00;Torneo de Delray Beach 1ª Ronda;D. Evans;J. Thompson;ATP Tennis TV;
+20:30;Torneo de Delray Beach 1ª Ronda;A. Kovacevic;N. Moreno De Alboran;ATP Tennis TV;
 22:30;Torneo de Buenos Aires 1ª Ronda;A. Fils;D. Lajovic;ATP Tennis TV;
