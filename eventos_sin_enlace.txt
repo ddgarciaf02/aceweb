@@ -1,6 +1,6 @@
-00:00;Torneo de Buenos Aires 1ª Ronda;R. Carballés;TM. Etcheverry;ATP Tennis TV;
 00:00;Torneo de Delray Beach 1ª Ronda;D. Koepfer;N. Borges;ATP Tennis TV;
-02:00;Torneo de Delray Beach 1ª Ronda;P. Kypson;M. Kecmanovic;ATP Tennis TV;
+02:05;Torneo de Buenos Aires 1ª Ronda;R. Carballés;TM. Etcheverry;ATP Tennis TV;
+02:20;Torneo de Delray Beach 1ª Ronda;P. Kypson;M. Kecmanovic;ATP Tennis TV;
 07:15;Tour de Omán;Etapa 4;Al Rustaq Fort › Yitti Hills (207,5 km);OmanSportsTV YouTube;
 13:00;WTA Doha 2ª Ronda;P. Badosa;L. Fernández;WTA TV;
 13:30;WTA Doha 1ª Ronda;X. Wang;V. Azarenka;WTA TV;DAZN (Regístrate);
