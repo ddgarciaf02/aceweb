@@ -2,13 +2,17 @@
 00:00;Torneo de Delray Beach 1ª Ronda;M. Giron;E. Nava;ATP Tennis TV;
 02:00;Torneo de Delray Beach 1ª Ronda;A. Michelsen;T. Kokkinakis;ATP Tennis TV;
 07:15;Tour de Omán;Etapa 5;Imty › Jabal Al Akhdhar (Green Mountain) (138,7km);OmanSportsTV YouTube;
-12:00;WTA Doha;2ª Ronda;WTA 1000;WTA TV;DAZN (Regístrate);
+13:30;WTA Doha 3ª Ronda;Q. Zheng;L. Fernández;WTA TV;DAZN (Regístrate);
 15:00;Minicopa Endesa Fase Regular;Unicaja Málaga;BAXI Manresa;ACB YouTube;
+15:00;WTA Doha 3ª Ronda;L. Tsurenko;N. Osaka;WTA TV;DAZN (Regístrate);
+16:30;WTA Doha 3ª Ronda;I. Swiatek;E. Alexandrova;WTA TV;DAZN (Regístrate);
 17:00;Minicopa Endesa Fase Regular;Valencia Basket;Basquet Girona;ACB YouTube;
-17:30;Torneo de Buenos Aires;2ª Ronda;ATP 250;ATP Tennis TV;
+17:30;Torneo de Buenos Aires 2ª Ronda;D. Galán;TM. Etcheverry;ATP Tennis TV;
+18:00;WTA Doha 3ª Ronda;V. Azarenka;J. Ostapenko;WTA TV;DAZN (Regístrate);
 19:00;Minicopa Endesa Fase Regular;Joventut Badalona;Real Madrid Baloncesto;ACB YouTube;
 19:00;Torneo de Delray Beach;2ª Ronda;ATP 250;ATP Tennis TV;
 19:30;Primera Federación Futsal;Palma Futsal;Real Betis FS;FEF TV;
+19:30;Torneo de Buenos Aires 2ª Ronda;D. Lajovic;A. Tabilo;ATP Tennis TV;
 20:00;Primera Federación Futsal;Alzira FS;Córdoba FS;FEF TV;
 20:00;Primera Federación Futsal;Noia Portus Apostoli FS;Osasuna Magna;FEF TV;
 20:00;Primera Federación Futsal;Ribera Navarra FS;Manzanares FS;FEF TV;
@@ -16,3 +20,4 @@
 21:00;Primera Federación Futsal;ElPozo Murcia;Jimbee Cartagena FS;FEF TV;
 21:00;Primera Federación Futsal;Industrias Santa Coloma;Servigroup Peñiscola FS;FEF TV;
 21:00;Primera Federación Futsal;Viña Albali Valdepeñas;Barça FS;FEF TV;Esport3 (Cataluña);
+22:30;Torneo de Buenos Aires 2ª Ronda;F. Díaz Acosta;F. Cerúndolo;ATP Tennis TV;
