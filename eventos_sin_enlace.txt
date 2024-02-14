@@ -1,6 +1,6 @@
-00:00;Torneo de Buenos Aires 1ª Ronda;S. Báez;B. Zapata;ATP Tennis TV;
 00:00;Torneo de Delray Beach 1ª Ronda;M. Giron;E. Nava;ATP Tennis TV;
-02:00;Torneo de Delray Beach 1ª Ronda;A. Michelsen;T. Kokkinakis;ATP Tennis TV;
+01:35;Torneo de Buenos Aires 1ª Ronda;S. Báez;B. Zapata;ATP Tennis TV;
+02:10;Torneo de Delray Beach 1ª Ronda;A. Michelsen;T. Kokkinakis;ATP Tennis TV;
 07:15;Tour de Omán;Etapa 5;Imty › Jabal Al Akhdhar (Green Mountain) (138,7km);OmanSportsTV YouTube;
 13:30;WTA Doha 3ª Ronda;Q. Zheng;L. Fernández;WTA TV;DAZN (Regístrate);
 15:00;Minicopa Endesa Fase Regular;Unicaja Málaga;BAXI Manresa;ACB YouTube;
