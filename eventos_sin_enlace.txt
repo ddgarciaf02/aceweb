@@ -4,8 +4,10 @@
 10:00;Minicopa Endesa Fase Regular;BAXI Manresa;Joventut Badalona;ACB YouTube;
 12:00;Minicopa Endesa Fase Regular;Unicaja Málaga;Real Madrid Baloncesto;ACB YouTube;Real Madrid TV;
 14:00;Minicopa Endesa Fase Regular;Basquet Girona;Casademont Zaragoza;ACB YouTube;Aragón Deporte;
+14:00;Vuelta a Andalucía;Etapa 2;Vélez-Málaga › Alcaudete (192,2 km);SUSPENDIDO;
 15:15;Semana Valenciana;Etapa 1;Tavernes De La Valldigna › Gandia (113 km);SPORTPUBLIC TV YouTube;
 16:00;Minicopa Endesa Fase Regular;Barça Basket;Valencia Basket;ACB YouTube;
 17:30;Torneo de Buenos Aires 2ª Ronda;A. Vavassori;L. Djere;ATP Tennis TV;
 19:00;Torneo de Buenos Aires 2ª Ronda;F. Coria;C. Norrie;ATP Tennis TV;
-19:00;Torneo de Delray Beach;2ª Ronda;ATP 250;ATP Tennis TV;
+19:00;Torneo de Delray Beach 2ª Ronda;J. Thompson;N. Moreno De Alboran;ATP Tennis TV;
+20:30;Torneo de Delray Beach 2ª Ronda;A. Michelsen;T. Paul;ATP Tennis TV;
