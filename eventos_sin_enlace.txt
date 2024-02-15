@@ -1,6 +1,6 @@
 00:00;Torneo de Buenos Aires 2ª Ronda;N. Jarry;S. Wawrinka;ATP Tennis TV;
 00:00;Torneo de Delray Beach 2ª Ronda;A. Mannarino;M. Giron;ATP Tennis TV;
-02:00;Torneo de Delray Beach 2ª Ronda;T. Fritz;N. Borges;ATP Tennis TV;
+02:30;Torneo de Delray Beach 2ª Ronda;T. Fritz;N. Borges;ATP Tennis TV;
 10:00;Minicopa Endesa Fase Regular;BAXI Manresa;Joventut Badalona;ACB YouTube;
 12:00;Minicopa Endesa Fase Regular;Unicaja Málaga;Real Madrid Baloncesto;ACB YouTube;Real Madrid TV;
 14:00;Minicopa Endesa Fase Regular;Basquet Girona;Casademont Zaragoza;ACB YouTube;Aragón Deporte;
