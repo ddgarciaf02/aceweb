@@ -6,5 +6,6 @@
 14:00;Minicopa Endesa Fase Regular;Basquet Girona;Casademont Zaragoza;ACB YouTube;Aragón Deporte;
 15:15;Semana Valenciana;Etapa 1;Tavernes De La Valldigna › Gandia (113 km);SPORTPUBLIC TV YouTube;
 16:00;Minicopa Endesa Fase Regular;Barça Basket;Valencia Basket;ACB YouTube;
-17:30;Torneo de Buenos Aires;2ª Ronda;ATP 250;ATP Tennis TV;
+17:30;Torneo de Buenos Aires 2ª Ronda;A. Vavassori;L. Djere;ATP Tennis TV;
+19:00;Torneo de Buenos Aires 2ª Ronda;F. Coria;C. Norrie;ATP Tennis TV;
 19:00;Torneo de Delray Beach;2ª Ronda;ATP 250;ATP Tennis TV;
