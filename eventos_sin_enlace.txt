@@ -7,4 +7,7 @@
 14:15;Semana Valenciana;Etapa 2;Borriol › La Vall d'Uixó (117 km);SPORTPUBLIC TV YouTube;
 16:00;Classic Var;UCI Europe Tour;Saint-Raphaël › Mont Faron (183 km);Eurosport Player;
 16:00;Minicopa Endesa Fase Regular;Valencia Basket;Casademont Zaragoza;ACB YouTube;Aragón Deporte;
-19:30;Torneo de Delray Beach;1/4 de Final;ATP 250;ATP Tennis TV;
+17:30;Torneo de Buenos Aires 1/4 de Final;D. Lajovic;F. Díaz Acosta;ATP Tennis TV;
+19:00;Torneo de Delray Beach 1/4 de Final;J. Thompson;T. Paul;ATP Tennis TV;
+19:30;Torneo de Buenos Aires 1/4 de Final;S. Báez;F. Coria;ATP Tennis TV;
+21:30;Torneo de Delray Beach 1/4 de Final;F. Cobolli;F. Tiafoe;ATP Tennis TV;
