@@ -2,7 +2,7 @@
 02:00;Torneo de Delray Beach 1/4 de Final;T. Fritz;R. Hijikata;ATP Tennis TV;
 10:00;Minicopa Endesa Semifinales;Real Madrid Baloncesto;Valencia Basket;ACB YouTube;Real Madrid TV;
 12:00;Minicopa Endesa Semifinales;Barça Basket;Unicaja Málaga;ACB YouTube;
-13:00;Rally Extreme E;Jeddah (Arabia Saudí);Carrera 1;RTVE Play;Eurosport Player;
+13:00;Rally Extreme E;Jeddah (Arabia Saudí);Carrera 1;DAZN (Regístrate);RTVE Play;Eurosport Player;
 13:45;Semana Valenciana;Etapa 3;Alicante › Xorret de Catí (129 km);SPORTPUBLIC TV YouTube;
 14:00;Minicopa Endesa 7/8 Puesto;BAXI Manresa;Basquet Girona;ACB YouTube;
 14:30;Tour de Los Alpes Marítimos;Etapa 1;Levens › Antibes (165,5 km);Eurosport Player;
