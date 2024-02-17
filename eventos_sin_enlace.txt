@@ -17,5 +17,5 @@
 18:30;Segunda Federación Futsal;Full Energía Zaragoza;UMA Antequera;Aragón Deporte;
 19:30;Primera Federación Futsal;Real Betis FS;Ribera Navarra FS;FEF TV;
 20:00;Primera Federación Futsal;Jimbee Cartagena FS;Jaén FS;FEF TV;
-21:00;Torneo de Delray Beach;Semifinal 1;ATP 250;ATP Tennis TV;
+21:00;Torneo de Delray Beach Semifinal 1 ATP 250;T. Paul;F. Tiafoe;ATP Tennis TV;
 BaloncestoESP;
