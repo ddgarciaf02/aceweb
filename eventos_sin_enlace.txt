@@ -6,7 +6,7 @@
 12:30;Torneo de Doha 1ª Ronda;J. Mensik;A. Davidovich;ATP Tennis TV;
 14:00;Torneo de Doha 1ª Ronda;A. Shevchenko;R. Gasquet;ATP Tennis TV;
 16:00;Torneo de Doha 1ª Ronda;A. Muller;A. Murray;ATP Tennis TV;
-16:30;FIBA AfroBasket;Marruecos;Libia;FIBA YouTube;
+16:30;FIBA AfroBasket Fase de Clasificación;Marruecos;Libia;FIBA YouTube;
 17:30;Torneo de Doha 1ª Ronda;G. Monfils;B. Van de Zandschulp;ATP Tennis TV;
 20:30;Copa del Rey 1/4 de Final;Servigroup Peñiscola FS;Barça FS;RFEF.es;RFEF TV YouTube;Esport3 (Cataluña);
 21:30;Copa del Rey 1/4 de Final;Real Betis FS;Palma Futsal;RFEF.es;RFEF TV YouTube;
