@@ -1,6 +1,6 @@
 00:00;Torneo Los Cabos 1ª Ronda;D. Evans;R. Safiullin;ATP Tennis TV;
-01:30;Torneo Los Cabos 1ª Ronda;M. Purcell;M. Arnaldi;ATP Tennis TV;
-04:00;Torneo Los Cabos 1ª Ronda;T. Kokkinakis;J. Draper;ATP Tennis TV;
+02:15;Torneo Los Cabos 1ª Ronda;M. Purcell;M. Arnaldi;ATP Tennis TV;
+05:00;Torneo Los Cabos 1ª Ronda;T. Kokkinakis;J. Draper;ATP Tennis TV;
 08:00;WTA Dubai 2ª Ronda;M. Sakkari;E. Navarro;WTA TV;DAZN (Regístrate);
 09:30;WTA Dubai 2ª Ronda;D. Vekic;A. Sabalenka;WTA TV;DAZN (Regístrate);
 12:30;Torneo de Doha 1ª Ronda;J. Mensik;A. Davidovich;ATP Tennis TV;
