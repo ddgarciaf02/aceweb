@@ -1,6 +1,6 @@
-M. Deportes 1080 
-acestream://d00223931b1854163e24c5c22475015d7d45c112 
-#Vamos 1080 
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122 
-#Vamos 720 
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0 
+M.L. Campeones 3 1080 
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2 
+M.L. Campeones 3 720 
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24 
+M.L. Campeones 5 1080 
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561 
