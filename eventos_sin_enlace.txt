@@ -9,15 +9,15 @@
 13:00;FIBA AsiaCup Fase de Clasificación;Filipinas;Hong Kong;DAZN (Regístrate);
 13:00;FIBA AsiaCup Fase de Clasificación;Tailandia;Indonesia;DAZN (Regístrate);
 14:00;Torneo de Doha 1/4 de Final;E. Ruusuvuori;K. Khachanov;ATP Tennis TV;
-16:00;Torneo de Doha 1/4 de Final;J. Mensik;A. Rublev;ATP Tennis TV;
-17:30;Torneo de Doha 1/4 de Final;U. Humbert;G. Monfils;ATP Tennis TV;
 18:00;Eurobasket Fase de Clasificación;Eslovaquia;Bélgica;DAZN (Regístrate);
 18:00;Eurobasket Fase de Clasificación;Eslovenia;Ucrania;DAZN (Regístrate);
 18:30;Eurobasket Fase de Clasificación;Lituania;Polonia;DAZN (Regístrate);
 19:00;Eurobasket Fase de Clasificación;Suecia;Bulgaria;DAZN (Regístrate);
 19:00;Eurocup Women 1/4 de Final;Spar Girona;Galatasaray Istanbul;FIBA YouTube;Esport3 (Cataluña);
+19:00;Torneo de Río de Janeiro 2ª Ronda;J. Munar;T. Seyboth-Wild;ATP Tennis TV;
 19:30;Eurobasket Fase de Clasificación;Alemania;Montenegro;DAZN (Regístrate);
 20:15;Eurobasket Fase de Clasificación;Portugal;Israel;DAZN (Regístrate);
 20:30;Eurobasket Fase de Clasificación;Islandia;Hungría;DAZN (Regístrate);
 20:30;Eurobasket Fase de Clasificación;Italia;Turquía;DAZN (Regístrate);
+23:00;Torneo Los Cabos 1/4 de Final;N. Borges;C. Ruud;ATP Tennis TV;
 23:30;FIBA AmeriCup Fase de Clasificación;Venezuela;Colombia;DAZN (Regístrate);
