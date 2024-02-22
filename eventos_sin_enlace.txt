@@ -14,7 +14,6 @@
 18:30;Eurobasket Fase de Clasificación;Lituania;Polonia;DAZN (Regístrate);
 19:00;Eurobasket Fase de Clasificación;Suecia;Bulgaria;DAZN (Regístrate);
 19:00;Eurocup Women 1/4 de Final;Spar Girona;Galatasaray Istanbul;FIBA YouTube;Esport3 (Cataluña);
-19:00;Torneo de Río de Janeiro 2ª Ronda;J. Munar;T. Seyboth-Wild;ATP Tennis TV;
 19:30;Eurobasket Fase de Clasificación;Alemania;Montenegro;DAZN (Regístrate);
 20:15;Eurobasket Fase de Clasificación;Portugal;Israel;DAZN (Regístrate);
 20:30;Eurobasket Fase de Clasificación;Islandia;Hungría;DAZN (Regístrate);
