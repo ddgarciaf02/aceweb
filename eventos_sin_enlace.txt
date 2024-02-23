@@ -20,6 +20,7 @@
 20:00;Eurobasket Fase de Clasificación;Grecia;República Checa;DAZN (Regístrate);
 20:00;Eurobasket Fase de Clasificación;Serbia;Finlandia;DAZN (Regístrate);
 20:00;FIBA AfroBasket Fase de Clasificación;Angola;Guinea;DAZN (Regístrate);
+20:00;FIBA AfroBasket;Nigeria;Libia;DAZN (Regístrate);
 20:30;Eurobasket Fase de Clasificación;Francia;Croacia;DAZN (Regístrate);
 20:30;Eurobasket Fase de Clasificación;Gran Bretaña;Holanda;DAZN (Regístrate);
 21:00;Primera Federación Futsal;Industrias Santa Coloma;Real Betis FS;FEF TV;
