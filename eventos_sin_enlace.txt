@@ -1,4 +1,4 @@
-00:10;FIBA AmeriCup;Colombia;Venezuela;DAZN (Regístrate);
+00:10;FIBA AmeriCup Fase de Clasificación;Colombia;Venezuela;DAZN (Regístrate);
 13:30;FIBA AsiaCup Fase de Clasificación;Irán;India;DAZN (Regístrate);
 16:00;FIBA AsiaCup Fase de Clasificación;Siria;EAU;DAZN (Regístrate);
 17:00;FIBA AsiaCup Fase de Clasificación;Kazajistán;Catar;DAZN (Regístrate);
@@ -19,6 +19,6 @@
 20:15;Eurobasket Fase de Clasificación;República Checa;Gran Bretaña;DAZN (Regístrate);
 21:00;Premier League;West Ham;Brentford;DAZN (Regístrate);DAZN 1 Bar (Movistar-148);
 22:00;WTA Torneo de San Diego 1ª Ronda;L. Tsurenko;K. Boulter;WTA TV;DAZN (Regístrate);
-23:00;FIBA AmeriCup;Paraguay;Brasil;DAZN (Regístrate);
+23:00;FIBA AmeriCup Fase de Clasificación;Paraguay;Brasil;DAZN (Regístrate);
 23:00;Torneo de Santiago 1ª Ronda;F. Díaz Acosta;P. Cachin;ATP Tennis TV;
 23:30;WTA Torneo de San Diego 1ª Ronda;D. Saville;L. Zhu;WTA TV;DAZN (Regístrate);
