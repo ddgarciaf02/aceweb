@@ -6,7 +6,11 @@
 03:10;FIBA AmeriCup Fase de Clasificación;México;República Dominicana;DAZN (Regístrate);
 04:00;WTA Torneo de San Diego 1ª Ronda;A. Li;M. Kostyuk;WTA TV;DAZN (Regístrate);
 18:00;Torneo de Santiago 1ª Ronda;JM. Cerúndolo;Y. Hanfmann;ATP Tennis TV;
-18:00;WTA Torneo de Austin;1ª Ronda;WTA 250;WTA TV;
+18:00;WTA Torneo de Austin 1ª Ronda;D. Semenistaja;V. Jiménez;WTA TV;
 19:30;Torneo de Santiago 1ª Ronda;TA. Tirante;J. Fonseca;ATP Tennis TV;
-20:30;WTA Torneo de San Diego;1ª Ronda;WTA 500;WTA TV;
+19:30;WTA Torneo de Austin 1ª Ronda;T. Martincova;S. Stephens;WTA TV;
+21:00;WTA Torneo de Austin 1ª Ronda;K. Volynets;R. Zarazúa;WTA TV;
+22:00;WTA Torneo de San Diego 1ª Ronda;C. Dolehide;D. Yastremska;WTA TV;DAZN (Regístrate);
 23:00;Torneo de Santiago 1ª Ronda;C. Garín;MT. Barrios Vera;ATP Tennis TV;
+23:00;WTA Torneo de Austin 1ª Ronda;P. Stearns;A. Schmiedlova;WTA TV;
+23:30;WTA Torneo de San Diego 1ª Ronda;L. Fernández;T. Maria;WTA TV;DAZN (Regístrate);
