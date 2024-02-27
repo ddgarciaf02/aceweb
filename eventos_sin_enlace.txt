@@ -10,6 +10,7 @@
 19:30;Torneo de Santiago 1ª Ronda;TA. Tirante;J. Fonseca;ATP Tennis TV;
 19:30;WTA Torneo de Austin 1ª Ronda;T. Martincova;S. Stephens;WTA TV;
 21:00;WTA Torneo de Austin 1ª Ronda;K. Volynets;R. Zarazúa;WTA TV;
+21:30;Amistoso Sub-19;España;Francia;RFEF.es;SeFutbol YouTube;
 22:00;WTA Torneo de San Diego 1ª Ronda;C. Dolehide;D. Yastremska;WTA TV;DAZN (Regístrate);
 23:00;Torneo de Santiago 1ª Ronda;C. Garín;MT. Barrios Vera;ATP Tennis TV;
 23:00;WTA Torneo de Austin 1ª Ronda;P. Stearns;A. Schmiedlova;WTA TV;
