@@ -2,8 +2,13 @@
 00:30;WTA Torneo de Austin 1ª Ronda;D. Collins;O. Gadecki;WTA TV;
 01:00;WTA Torneo de San Diego 1ª Ronda;D. Vekic;K. Hui;WTA TV;DAZN (Regístrate);
 02:30;WTA Torneo de San Diego 1ª Ronda;C. Wozniacki;A. Blinkova;WTA TV;DAZN (Regístrate);
-18:00;Torneo de Santiago;2ª Ronda;ATP 250;ATP Tennis TV;
+18:00;Amistoso Sub-19;Portugal;España;SeFutbol YouTube;RFEF.es;
+18:00;Torneo de Santiago 2ª Ronda;F. Díaz Acosta;P. Martínez;ATP Tennis TV;
 18:00;Vuelta a Cataluña;Gala de Presentación;Edición 2024;Esport3 (Cataluña);
-18:00;WTA Torneo de Austin;2ª Ronda;WTA 250;WTA TV;
+18:00;WTA Torneo de Austin 2ª Ronda;E. Arango;Y. Wang;WTA TV;
+19:30;Torneo de Santiago 2ª Ronda;T. Seyboth-Wild;A. Fils;ATP Tennis TV;
+19:30;WTA Torneo de Austin 2ª Ronda;Y. Yuan;T. Townsend;WTA TV;
 20:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;Melistar FS;Aragón Deporte;
-20:30;WTA Torneo de San Diego;2ª Ronda;WTA 500;WTA TV;
+22:00;WTA Torneo de San Diego 2ª Ronda;T. Preston;M. Kostyuk;WTA TV;DAZN (Regístrate);
+23:00;Torneo de Santiago 2ª Ronda;N. Jarry;F. Coria;ATP Tennis TV;
+23:30;WTA Torneo de San Diego 2ª Ronda;T. Maria;D. Saville;WTA TV;DAZN (Regístrate);
