@@ -11,5 +11,5 @@
 19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;CFS Bisontes Castellón;Aragón Deporte;
 20:00;Primera Federación Futsal;Córdoba FS;Palma Futsal;FEF TV;
 20:00;UFC UFC Fight Night;J. Rozenstruik;S. Gaziev;Eurosport Player;
-22:00;Torneo de Santiago;Semifinal 1;ATP 250;ATP Tennis TV;
+22:00;Torneo de Santiago Semifinal 1 ATP 250;C. Moutet;A. Tabilo;ATP Tennis TV;
 BaloncestoESP;
