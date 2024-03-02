@@ -1,5 +1,6 @@
 01:00;WTA Torneo de Austin 1/4 de Final;Y. Yuan;Y. Wang;WTA TV;DAZN (Regístrate);
 01:00;WTA Torneo de San Diego 1/4 de Final;A. Pavlyuchenkova;M. Kostyuk;WTA TV;DAZN (Regístrate);
+11:00;Adidas Next Generation Fase de Clasificación;BC Partizan Beograd;Barça Basket;EuroLeague YouTube;
 13:00;Primera Federación Futsal;Real Betis FS;Manzanares FS;FEF TV;CMMPlay (Castilla-LM);
 14:45;Tour des 100 Communes;UCI Europe Tour;Béthune › Barlin (183 km);Blackowl Live Youtube;
 16:00;Premier League;Everton;West Ham;DAZN (Regístrate);
@@ -8,6 +9,7 @@
 16:00;Velada Peso Pluma;J. Belmehdi;A. Lamptey;DAZN (Regístrate);
 18:00;Primera Federación Futsal;Viña Albali Valdepeñas;Alzira FS;FEF TV;
 18:30;Segunda Federación Futsal;CD El Ejido Futsal;UD Ibiza FS;RFEF.es;
+19:00;Adidas Next Generation Fase de Clasificación;Barça Basket;Mega Soccerbet Belgrade;EuroLeague YouTube;
 19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;CFS Bisontes Castellón;Aragón Deporte;
 20:00;Primera Federación Futsal;Córdoba FS;Palma Futsal;FEF TV;
 20:00;UFC UFC Fight Night;J. Rozenstruik;S. Gaziev;Eurosport Player;
