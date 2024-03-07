@@ -1,12 +1,2 @@
-M.L. Campeones 1080 MultiAudio 
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c 
-M.L. Campeones 1080 MultiAudio 
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833 
-M.L. Campeones 1080P 
-acestream://1d79a7543d691666135669f89f3541f54e2dd0a9 
-M.L. Campeones 720 
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c 
-M.L. Campeones 3 1080 
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2 
-M.L. Campeones 3 720 
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24 
+M. Deportes 7 1080 
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78 
