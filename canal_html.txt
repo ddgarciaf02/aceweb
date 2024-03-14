@@ -1,6 +1,0 @@
-M.L. Campeones 3 1080 
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2 
-M.L. Campeones 3 720 
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24 
-M.L. Campeones 4 1080 
-acestream://f2df4f96b23388b45e75d848a48a510cf8af560f 
