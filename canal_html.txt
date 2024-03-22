@@ -38,7 +38,3 @@ M.L. Campeones 3 1080
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2 
 M.L. Campeones 3 720 
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24 
-#Vamos 1080 
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122 
-#Vamos 720 
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0 
