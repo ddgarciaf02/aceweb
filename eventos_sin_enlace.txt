@@ -1,9 +1,7 @@
-00:00;Miami Open;Semifinales;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;
-00:00;UFC;UFC 300;Prelims;Eurosport Player;
-04:00;UFC UFC 300;A. Pereira;J. Hill;Eurosport Player;
-12:00;Segunda Federación Futsal;CFS Bisontes Castellón;Melistar FS;RFEF.es;
-12:30;Amistoso;España;Paraguay;RTVE Play;
-15:00;Tour du Doubs;UCI Europe Tour;Morteau › Pontarlier - Le Larmont (200 km);Eurosport Player;
-20:00;Miami Open;Final;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;Eurovision Sports TV;
-21:30;NASCAR Cup Series;Texas Speedway (Fort Worth);Carrera;DAZN (Regístrate);
-21:30;NBA Liga Regular;Memphis Grizzlies;Denver Nuggets;ProSieben MAXX (M+ Astra);
+11:00;Torneo de Bucarest;1ª Ronda;ATP 250;ATP Tennis TV;
+11:00;Torneo de Múnich 1ª Ronda;V. Kopriva;J. Draper;ATP Tennis TV;
+11:00;WTA Torneo de Rouen;1ª Ronda;WTA 250;WTA TV;
+12:00;WTA Torneo de Stuttgart;1ª Ronda;WTA 500;WTA TV;DAZN (Regístrate);
+12:30;Torneo de Múnich 1ª Ronda;A. Moro Cañas;D. Thiem;ATP Tennis TV;
+14:00;Torneo de Múnich 1ª Ronda;M. Rehberg;A. Michelsen;ATP Tennis TV;
+15:30;Torneo de Múnich 1ª Ronda;F. Passaro;R. Molleker;ATP Tennis TV;
