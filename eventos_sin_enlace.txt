@@ -1,7 +1,6 @@
 10:00;Torneo de Bucarest 1ª Ronda;L. Nardi;T. Seyboth-Wild;ATP Tennis TV;
 11:00;Barcelona Open 1ª Ronda;D. Evans;B. Nakashima;ATP Tennis TV;RTVE Play;
 11:00;Torneo de Múnich 1ª Ronda;V. Kopriva;J. Draper;ATP Tennis TV;
-11:00;WTA Torneo de Rouen;1ª Ronda;WTA 250;WTA TV;
 11:30;Torneo de Bucarest 1ª Ronda;L. Darderi;M. Navone;ATP Tennis TV;
 12:30;Barcelona Open 1ª Ronda;M. Arnaldi;A. Cazaux;ATP Tennis TV;RTVE Play;
 12:30;Torneo de Múnich 1ª Ronda;A. Moro Cañas;D. Thiem;ATP Tennis TV;
