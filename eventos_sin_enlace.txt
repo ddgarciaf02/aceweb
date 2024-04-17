@@ -10,10 +10,9 @@
 14:00;WTA Torneo de Stuttgart 2ª Ronda;M. Kostyuk;L. Siegemund;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:30;WTA Torneo de Rouen 1ª Ronda;A. Schmiedlova;D. Parry;WTA TV;
 15:30;Barcelona Open 2ª Ronda;D. Altmaier;A. Fils;ATP Tennis TV;RTVE Play;
-15:30;Torneo de Múnich 2ª Ronda;A. Michelsen;C. Garín;ATP Tennis TV;
 17:00;WTA Torneo de Stuttgart 2ª Ronda;S. Vickery;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:30;WTA Torneo de Rouen 2ª Ronda;E. Avanesyan;M. Andreeva;WTA TV;
-18:30;WTA Torneo de Stuttgart 2ª Ronda;E. Raducanu;A. Kerber;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 19:00;FIBA Europe Cup Final;NINERS Chemnitz;Bahçeşehir Koleji;FIBA YouTube;
 19:30;WTA Torneo de Rouen 2ª Ronda;S. Stephens;K. Pliskova;WTA TV;
-20:00;WTA Torneo de Stuttgart 2ª Ronda;P. Badosa;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+20:30;WTA Torneo de Stuttgart 2ª Ronda;E. Raducanu;A. Kerber;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+21:30;WTA Torneo de Stuttgart 2ª Ronda;P. Badosa;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
