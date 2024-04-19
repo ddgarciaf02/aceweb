@@ -3,15 +3,15 @@
 11:00;Torneo de Múnich 1/4 de Final;T. Fritz;J. Draper;ATP Tennis TV;
 12:30;Torneo de Múnich 1/4 de Final;A. Zverev;C. Garín;ATP Tennis TV;
 12:30;WTA Torneo de Stuttgart 1/4 de Final;E. Rybakina;J. Paolini;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-13:30;Torneo de Bucarest;1/4 de Final;ATP Tennis TV;
 13:30;WTA Torneo de Rouen 1/4 de Final;S. Stephens;Y. Yuan;WTA TV;DAZN (Regístrate);
 14:00;Torneo de Múnich 1/4 de Final;MA. Huesler;H. Rune;ATP Tennis TV;
 14:00;WTA Torneo de Stuttgart 1/4 de Final;M. Vondrousova;A. Sabalenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:10;Supersport 300;G.P. Holanda (Assen);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);Eurosport Player;
+14:30;Torneo de Bucarest 1/4 de Final;J. Fonseca;A. Tabilo;ATP Tennis TV;
 15:00;WTA Torneo de Rouen 1/4 de Final;A. Rus;M. Linette;WTA TV;DAZN (Regístrate);
 15:30;Torneo de Múnich 1/4 de Final;F. Auger-Aliassime;JL. Struff;ATP Tennis TV;
 16:00;Supersport;G.P. Holanda (Assen);Superpole;DAZN (Regístrate);DAZN App Gratis (Regístrate);Eurosport Player;
-16:00;Torneo de Bucarest;1/4 de Final;ATP Tennis TV;
+16:15;Torneo de Bucarest 1/4 de Final;F. Cerúndolo;M. Navone;ATP Tennis TV;
 17:00;WTA Torneo de Stuttgart 1/4 de Final;I. Swiatek;E. Raducanu;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:30;WTA Torneo de Rouen 1/4 de Final;EG. Ruse;C. García;WTA TV;DAZN (Regístrate);
 18:30;WTA Torneo de Stuttgart 1/4 de Final;M. Kostyuk;C. Gauff;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
