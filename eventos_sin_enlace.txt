@@ -7,8 +7,8 @@
 13:30;Torneo de Múnich Semifinal 1 ATP 250;C. Garín;T. Fritz;ATP Tennis TV;
 14:00;WTA Torneo de Stuttgart Semifinal 1 WTA 500;I. Swiatek;E. Rybakina;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 14:30;Barcelona Open;Semifinal Dobles;ATP 500;ATP Tennis TV;RTVE Play;
-15:00;Torneo de Bucarest;Semifinal 2;ATP 250;ATP Tennis TV;
-15:00;Torneo de Múnich;Semifinal 2;ATP 250;ATP Tennis TV;
+15:00;Torneo de Bucarest Semifinal 2 ATP 250;M. Navone;G. Barrere;ATP Tennis TV;
+15:00;Torneo de Múnich Semifinal 2 ATP 250;JL. Struff;H. Rune;ATP Tennis TV;
 15:00;WTA Torneo de Rouen Semifinal 1 WTA 250;S. Stephens;C. García;WTA TV;DAZN (Regístrate);
 16:00;Primera Federación Futsal;Viña Albali Valdepeñas;Manzanares FS;FEF TV;
 16:00;Segunda Federación Futsal;CD El Ejido Futsal;Full Energía Zaragoza;Aragón Deporte;
