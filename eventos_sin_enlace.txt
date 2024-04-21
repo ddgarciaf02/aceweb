@@ -1,12 +1,1 @@
-00:00;NBA Playoffs;Philadelphia 76ers;New York Knicks;NBA League Pass;
-02:00;Título Mundial Peso Superligero;D. Haney;R. García;DAZN (Regístrate);
-05:05;Supercars Championship;Taupo Motorsport Park;Carrera 2;DAZN (Regístrate);
-13:00;Barcelona Open;Final Dobles;ATP 500;ATP Tennis TV;RTVE Play;
-13:00;WTA Torneo de Stuttgart Final WTA 500;E. Rybakina;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-13:30;Torneo de Múnich Final ATP 250;T. Fritz;JL. Struff;ATP Tennis TV;
-14:00;Torneo de Bucarest Final ATP 250;M. Navone;M. Fucsovics;ATP Tennis TV;
-15:00;WTA Torneo de Rouen Final WTA 250;M. Linette;S. Stephens;WTA TV;DAZN (Regístrate);
-16:00;Premier League;Aston Villa;Bournemouth;DAZN (Regístrate);
-16:00;Premier League;Crystal Palace;West Ham;DAZN (Regístrate);
-19:00;NBA Playoffs;Miami Heat;Boston Celtics;NBA League Pass;
-21:00;NASCAR Cup Series;Talladega Superspeedway;Carrera;DAZN (Regístrate);
+03:30;NBA Playoffs;New Orleans Pelicans;Oklahoma C. Thunder;NBA League Pass;
