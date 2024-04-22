@@ -1,3 +1,9 @@
-01:00;NBA Playoffs;Indiana Pacers;Milwaukee Bucks;NBA League Pass;
-03:30;NBA Playoffs;New Orleans Pelicans;Oklahoma C. Thunder;NBA League Pass;
-10:00;Masters Madrid;Ronda de clasificación;ATP Masters 1000;Mutua Madrid Open YouTube;
+01:30;NBA Playoffs;Philadelphia 76ers;New York Knicks;NBA League Pass;
+04:00;NBA Playoffs;Los Angeles Lakers;Denver Nuggets;NBA League Pass;
+10:00;Bruselas Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+11:00;Masters Madrid;Ronda de clasificación;ATP Masters 1000;Mutua Madrid Open YouTube;
+11:00;WTA Madrid 1ª Ronda;A. Eala;L. Tsurenko;WTA TV;RTVE Play;
+12:30;WTA Madrid 1ª Ronda;T. Maria;P. Stearns;WTA TV;RTVE Play;
+14:00;WTA Madrid 1ª Ronda;D. Shnaider;A. Potapova;WTA TV;RTVE Play;
+15:30;WTA Madrid 1ª Ronda;S. Kenin;A. Schmiedlova;WTA TV;RTVE Play;
+20:30;Primera Federación Futsal;Barça FS;Jimbee Cartagena FS;FEF TV;Esport3 (Cataluña);
