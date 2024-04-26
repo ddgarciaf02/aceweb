@@ -12,7 +12,7 @@
 14:00;WTA Madrid 2ª Ronda;M. Kostyuk;M. Sherif;WTA TV;RTVE Play;
 14:00;WTA Madrid 2ª Ronda;S. Bejlek;A. Kalinskaya;WTA TV;RTVE Play;
 15:30;Masters Madrid 2ª Ronda;U. Humbert;B. Van de Zandschulp;ATP Tennis TV;RTVE Play;
-18:00;Basketball Champions League Semifinales;Lenovo Tenerife;Peristeri BC;DAZN (Regístrate);RTVE Play;
+18:00;Basketball Champions League Semifinales;Lenovo Tenerife;Peristeri BC;DAZN (Regístrate);RTVE Play;TV Canaria;
 19:30;Primera Federación Futsal;Industrias Santa Coloma;Alzira FS;FEF TV;
 21:00;Basketball Champions League Semifinales;UCAM Murcia CB;Unicaja Málaga;DAZN (Regístrate);101 TV (Málaga);RTVE Play;Andalucía TV;Popular TV Murcia;
 21:00;Primera Federación Futsal;Real Betis FS;Viña Albali Valdepeñas;FEF TV;
