@@ -159,3 +159,14 @@ Apr 26 18:05:10.750 [notice] Opening Socks listener on 127.0.0.1:9050
 Apr 26 18:05:10.750 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
 Apr 26 18:05:10.750 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
 Apr 26 18:05:10.750 [err] Reading config failed--see warnings above.
+updating_github : INFO : web updated to github
+2024-04-26 18:05:54.562416
+---------------------------------------------------------
+
+Apr 26 19:05:10.720 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
+Apr 26 19:05:10.721 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Apr 26 19:05:10.723 [notice] Read configuration file "/etc/tor/torrc".
+Apr 26 19:05:10.733 [notice] Opening Socks listener on 127.0.0.1:9050
+Apr 26 19:05:10.733 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
+Apr 26 19:05:10.733 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
+Apr 26 19:05:10.733 [err] Reading config failed--see warnings above.
