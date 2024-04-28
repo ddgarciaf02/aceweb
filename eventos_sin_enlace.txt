@@ -1,16 +1,2 @@
-00:00;NBA Playoffs;Boston Celtics;Miami Heat;NBA League Pass;
-08:45;Red Bull MotoGP Rookies Cup;G.P. España (Jerez);Carrera 2;DAZN (Regístrate);DAZN App Gratis (Regístrate);Red Bull TV;
-11:00;Masters Madrid 3ª Ronda;T. Griekspoor;H. Rune;ATP Tennis TV;M+ Deportes 8 (M195);RTVE Play;
-13:00;Primera Federación Futsal;Córdoba FS;Servigroup Peñiscola FS;FEF TV;
-13:00;Primera Federación Futsal;Jimbee Cartagena FS;Osasuna Magna;FEF TV;
-13:30;DTM;Motorsport Arena Oschersleben;Carrera 2;DAZN (Regístrate);
-14:20;Famenne Ardenne Classic;UCI Europe Tour;Marche-en-Famenne › Marche-en-Famenne (195 km);Eurosport Player;
-14:30;WTA Madrid 3ª Ronda;M. Vondrousova;M. Andreeva;WTA TV;M+ Deportes 8 (M195);RTVE Play;
-15:00;Premier League;Bournemouth;Brighton;DAZN (Regístrate);
-15:30;Bruselas Open;Final Masculina;Premier Padel Tour;Red Bull TV;Movistar Plus+ 2 (M176);
-16:00;WTA Madrid 3ª Ronda;C. García;J. Paolini;WTA TV;M+ Ellas Vamos (66);M+ Deportes 8 (M195);RTVE Play;
-17:00;Basketball Champions League 3er Puesto;Peristeri BC;UCAM Murcia CB;DAZN (Regístrate);RTVE Play;Popular TV Murcia;
-17:30;Masters Madrid 3ª Ronda;T. Paul;F. Cerúndolo;ATP Tennis TV;RTVE Play;
-19:00;NBA Playoffs;New York Knicks;Philadelphia 76ers;NBA League Pass;
-20:00;NASCAR Cup Series;Dover Speedway;Carrera;DAZN (Regístrate);
-BaloncestoESP;La Xarxa+;
+01:00;NBA Playoffs;Milwaukee Bucks;Indiana Pacers;NBA League Pass;
+03:30;NBA Playoffs;Minnesota Timberwolves;Phoenix Suns;NBA League Pass;
