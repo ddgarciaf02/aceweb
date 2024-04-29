@@ -1,13 +1,2 @@
 01:00;NBA Playoffs;Milwaukee Bucks;Indiana Pacers;NBA League Pass;
 03:30;NBA Playoffs;Minnesota Timberwolves;Phoenix Suns;NBA League Pass;
-11:00;Masters Madrid 3ª Ronda;A. Bublik;B. Shelton;ATP Tennis TV;RTVE Play;
-11:00;WTA Madrid 1/8 de final;B. Haddad Maia;M. Sakkari;WTA TV;RTVE Play;
-12:30;Masters Madrid 3ª Ronda;D. Medvedev;S. Korda;ATP Tennis TV;RTVE Play;
-13:00;Masters Madrid 3ª Ronda;J. Lehecka;T. Monteiro;ATP Tennis TV;RTVE Play;
-14:30;WTA Madrid 1/8 de final;M. Andreeva;J. Paolini;WTA TV;RTVE Play;
-15:00;Masters Madrid 3ª Ronda;J. Mensik;F. Auger-Aliassime;ATP Tennis TV;RTVE Play;
-16:00;Masters Madrid 3ª Ronda;C. Norrie;C. Ruud;ATP Tennis TV;RTVE Play;
-16:00;WTA Madrid 1/8 de final;C. Gauff;M. Keys;WTA TV;RTVE Play;
-17:30;WTA Madrid 1/8 de final;S. Bejlek;E. Rybakina;WTA TV;RTVE Play;
-17:30;WTA Madrid 1/8 de final;Y. Putintseva;D. Kasatkina;WTA TV;RTVE Play;
-19:00;Masters Madrid 3ª Ronda;F. Cobolli;K. Khachanov;ATP Tennis TV;RTVE Play;
