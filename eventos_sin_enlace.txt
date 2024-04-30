@@ -1,3 +1,4 @@
-01:30;NBA Playoffs;Boston Celtics;Miami Heat;NBA League Pass;
-04:00;NBA Playoffs;Los Angeles Lakers;Denver Nuggets;NBA League Pass;
+02:00;NBA Playoffs;Orlando Magic;Cleveland Cavaliers;NBA League Pass;
+03:30;NBA Playoffs;Indiana Pacers;Milwaukee Bucks;NBA League Pass;
 09:00;Sevilla Open;1ª Ronda;Premier Padel Tour;Premier Padel YouTube;
+12:00;Eschborn-Frankfurt;UCI World Tour;Eschborn › Frankfurt am Main (203,8 km);Eurosport Player;
