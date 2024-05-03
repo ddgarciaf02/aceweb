@@ -1,7 +1,8 @@
 03:00;NBA Playoffs;New York Knicks;Philadelphia 76ers;NBA League Pass;
-11:00;WTA Torneo de Lleida 1/4 de Final;A. Rus;G. Maristany;Marca YouTube;
-12:30;WTA Torneo de Lleida 1/4 de Final;E. Navarro;M. Sherif;Marca YouTube;
-14:00;WTA Torneo de Lleida 1/4 de Final;A. Krueger;K. Siniakova;Marca YouTube;
+11:00;WTA Torneo de Lleida 1/4 de Final;A. Rus;G. Maristany;La Xarxa+;Lleida Televisió;Marca YouTube;
+12:30;WTA Torneo de Lleida 1/4 de Final;E. Navarro;M. Sherif;La Xarxa+;Lleida Televisió;Marca YouTube;
+14:00;WTA Torneo de Lleida 1/4 de Final;A. Krueger;K. Siniakova;La Xarxa+;Lleida Televisió;Marca YouTube;
+15:30;WTA Torneo de Lleida 1/4 de Final;MC. Osorio;M. Frech;La Xarxa+;Lleida Televisió;Marca YouTube;
 16:00;Futsal Champions League Semifinales;Benfica FS;Palma Futsal;UEFA TV;DAZN (Regístrate);DAZN App Gratis (Regístrate);Esport3 (Cataluña);IB3 (Baleares);
 19:30;Primera Federación Futsal;Osasuna Magna;Córdoba FS;FEF TV;
 21:00;Primera Federación Futsal;ElPozo Murcia;Industrias Santa Coloma;FEF TV;
