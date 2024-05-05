@@ -1,8 +1,1 @@
-02:00;UFC;UFC 301;Prelims;Eurosport Player;
-04:00;UFC UFC 301;A. Pantoja;S. Erceg;Eurosport Player;
-15:00;Futsal Champions League 3er Puesto;Sporting CP FS;Benfica FS;UEFA TV;DAZN (Regístrate);DAZN App Gratis (Regístrate);Barça One;
-15:05;Tro-Bro Léon;UCI Europe Tour;Le Carpont Plouguin › Lannilis (203,6 km);Eurosport Player;
-15:45;Elfstedenronde;UCI Europe Tour;Brugge › Brugge (199,9 km);Eurosport Player;
-17:30;LF Challenge Playoff Ascenso Final;CAB Estepona;Joventut Badalona;Twitch baloncestoesp;
-21:00;NASCAR Cup Series;Kansas Speedway;Carrera;DAZN (Regístrate);
-BaloncestoESP;À Punt (C. Valenciana);Aragón Deporte;Aragón TV;
+10:00;Título Mundial Peso Supergallo;N. Inoue;L. Nery;Eurosport Player;
