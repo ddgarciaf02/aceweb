@@ -1,5 +1,5 @@
 10:00;Masters Roma;Ronda de clasificación;ATP Masters 1000;Internazionali BNL d'Italia YouTube;
-11:00;WTA Roma 1ª Ronda;L. Pigato;S. Rogers;WTA TV;DAZN (Regístrate);
-12:30;WTA Roma 1ª Ronda;M. Andreeva;P. Badosa;WTA TV;DAZN (Regístrate);
-14:00;WTA Roma 1ª Ronda;M. Trevisan;Y. Putintseva;WTA TV;DAZN (Regístrate);
-15:30;WTA Roma 1ª Ronda;A. Bogdan;L. Fernández;WTA TV;DAZN (Regístrate);
+11:00;WTA Roma 1ª Ronda;L. Pigato;S. Rogers;WTA TV;Tennis Channel (Orange 104);
+12:30;WTA Roma 1ª Ronda;M. Andreeva;P. Badosa;WTA TV;Tennis Channel (Orange 104);
+14:00;WTA Roma 1ª Ronda;M. Trevisan;Y. Putintseva;WTA TV;Tennis Channel (Orange 104);
+15:30;WTA Roma 1ª Ronda;A. Bogdan;L. Fernández;WTA TV;Tennis Channel (Orange 104);
