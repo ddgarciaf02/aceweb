@@ -1,5 +1,2 @@
-10:00;Masters Roma;Ronda de clasificación;ATP Masters 1000;Internazionali BNL d'Italia YouTube;
-11:00;WTA Roma 1ª Ronda;L. Pigato;S. Rogers;WTA TV;Tennis Channel (Orange 104);
-12:30;WTA Roma 1ª Ronda;M. Andreeva;P. Badosa;WTA TV;Tennis Channel (Orange 104);
-14:00;WTA Roma 1ª Ronda;M. Trevisan;Y. Putintseva;WTA TV;Tennis Channel (Orange 104);
-15:30;WTA Roma 1ª Ronda;A. Bogdan;L. Fernández;WTA TV;Tennis Channel (Orange 104);
+14:50;Tour de Hungría;Etapa 1;Karcag › Hajdúszoboszló (169,8 km);Eurosport Player;
+15:30;Clásica de Navarra;UCI Women Elite;Pamplona › Pamplona (135,6 km);Eurosport Player;
