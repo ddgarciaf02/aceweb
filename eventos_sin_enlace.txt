@@ -1,6 +1,11 @@
-11:00;WTA Roma 1ª Ronda;D. Vekic;L. Tsurenko;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-14:50;Tour de Hungría;Etapa 1;Karcag › Hajdúszoboszló (169,8 km);Eurosport Player;
-15:30;Clásica de Navarra;UCI Women Elite;Pamplona › Pamplona (135,6 km);Navarra TV;ETBK (País Vasco);Eurosport Player;
-16:00;WTA Roma 1ª Ronda;R. Zarazúa;E. Cocciaretto;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-20:00;Amistoso Sub-19;Italia;España;RFEF.es;SeFutbol YouTube;
-20:30;WTA Roma 1ª Ronda;S. Errani;A. Anisimova;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+11:00;Masters Roma 1ª Ronda;D. Koepfer;A. Vavassori;ATP Tennis TV;
+11:00;WTA Roma 2ª Ronda;L. Noskova;L. Stefanini;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+13:00;WTA Roma 2ª Ronda;N. Osaka;M. Kostyuk;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+14:30;Masters Roma 1ª Ronda;T. Machac;M. Arnaldi;ATP Tennis TV;
+14:30;WTA Roma 2ª Ronda;C. Gauff;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+14:50;Tour de Hungría;Etapa 2;Tokaj › Kazincbarcika (162,1 km);Eurosport Player;
+15:30;Circuito de Valonia;UCI Europe Tour;Charleroi › Marcinelle (Charleroi) (183,9 km);Eurosport Player;
+16:00;Masters Roma 1ª Ronda;D. Altmaier;L. Nardi;ATP Tennis TV;
+17:00;WTA Roma 2ª Ronda;E. Navarro;P. Badosa;WTA TV;
+19:00;WTA Roma 2ª Ronda;I. Swiatek;B. Pera;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+20:30;Masters Roma 1ª Ronda;D. Lajovic;L. Sonego;ATP Tennis TV;
