@@ -1,5 +1,2 @@
-14:30;WTA Roma 2ª Ronda;C. Gauff;M. Frech;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
-14:50;Tour de Hungría;Etapa 2;Tokaj › Kazincbarcika (162,1 km);Eurosport Player;
-15:30;Circuito de Valonia;UCI Europe Tour;Charleroi › Marcinelle (Charleroi) (183,9 km);Eurosport Player;
-17:00;WTA Roma 2ª Ronda;E. Navarro;P. Badosa;WTA TV;
-19:00;WTA Roma 2ª Ronda;I. Swiatek;B. Pera;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+15:00;Tour de Hungría;Etapa 3;Kazincbarcika › Gyöngyös-Kékesteto (182,7 km);Eurosport Player;
+20:00;Primera Federación Futsal;Servigroup Peñiscola FS;Osasuna Magna;FEF TV;
