@@ -1,4 +1,8 @@
-DAZN 1 1080 
-acestream://8ca07071b39185431f8e940ec98d1add9e561639 
-DAZN 1 720 
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f 
+M. LaLiga 1080P 
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280 
+M. LaLiga 1080 MultiAudio 
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f 
+M. LaLiga 1080 MultiAudio 
+acestream://1969c27658d4c8333ab2c0670802546121a774a5 
+M. LaLiga 720 
+acestream://f031f5728b32f6089dda28edebe990cf198108d8 
