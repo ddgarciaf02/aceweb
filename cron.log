@@ -60,3 +60,45 @@ May 24 09:05:04.997 [notice] Opening Socks listener on 127.0.0.1:9050
 May 24 09:05:04.997 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
 May 24 09:05:04.997 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
 May 24 09:05:04.997 [err] Reading config failed--see warnings above.
+updating_github : INFO : web updated to github
+2024-05-24 09:05:39.971619
+---------------------------------------------------------
+
+May 24 10:12:49.101 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
+May 24 10:12:49.103 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+May 24 10:12:49.110 [notice] Read configuration file "/etc/tor/torrc".
+May 24 10:12:49.121 [notice] Opening Socks listener on 127.0.0.1:9050
+May 24 10:12:49.121 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
+May 24 10:12:49.121 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
+May 24 10:12:49.121 [err] Reading config failed--see warnings above.
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
+grep: id_24-05-2024.txt: No such file or directory
