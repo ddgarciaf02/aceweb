@@ -1,2 +1,7 @@
-M. Deportes 3 1080 
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a 
+EuroSport 1 1080 
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952 
+--
+EuroSport 1 1080 
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952 
+Teledeporte RTVE
+https://www.rtve.es/play/videos/directo/deportes/tdp/
