@@ -1,6 +1,6 @@
-M. Deportes 1080 
-acestream://d00223931b1854163e24c5c22475015d7d45c112 
-#Vamos 1080 
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122 
-#Vamos 720 
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0 
+DAZN LaLiga 1080 MultiAudio 
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a 
+DAZN LaLiga 1080 MultiAudio 
+acestream://75251ba975132ec9a202806ba5bf606e87280c96 
+DAZN LaLiga 720 
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914 
