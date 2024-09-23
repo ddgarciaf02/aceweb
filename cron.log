@@ -81,3 +81,9 @@ Sep 23 10:07:05.820 [warn] Failed to parse/validate config: Failed to bind one o
 Sep 23 10:07:05.820 [err] Reading config failed--see warnings above.
 sed: can't read /tmp/tmp.KST4lsPZld: No such file or directory
 cat: /tmp/tmp.T5c9XeI7NE: No such file or directory
+updating_github : INFO : web updated to github
+2024-09-23 10:07:23.615968
+---------------------------------------------------------
+
+./eventos.sh: line 154: 11102 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
+     11103 Killed                  | pandoc -f html > $file3
