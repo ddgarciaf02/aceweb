@@ -1,337 +1,40 @@
-Sep 24 04:05:10.943 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 04:05:10.943 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 04:05:10.943 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 04:05:10.944 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 04:05:10.944 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 04:05:10.944 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 04:05:10.945 [err] Reading config failed--see warnings above.
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-grep: id_24-09-2024.txt: No such file or directory
-updating_github : ERROR : some error occured while pushing the code
-2024-09-24 04:07:41.638983
----------------------------------------------------------
-
-Sep 24 05:05:14.444 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 05:05:14.445 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 05:05:14.445 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 05:05:14.447 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 05:05:14.447 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 05:05:14.447 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 05:05:14.447 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154:  2014 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-      2015 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 05:06:15.468822
----------------------------------------------------------
-
-Sep 24 06:05:07.920 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 06:05:07.923 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 06:05:07.925 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 06:05:07.927 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 06:05:07.927 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 06:05:07.927 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 06:05:07.927 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154:  3628 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-      3629 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 06:06:01.068720
----------------------------------------------------------
-
-Sep 24 07:05:13.123 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 07:05:13.124 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 07:05:13.125 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 07:05:13.127 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 07:05:13.127 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 07:05:13.127 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 07:05:13.127 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154:  5354 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-      5355 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 07:06:09.404605
----------------------------------------------------------
-
-Sep 24 08:05:13.748 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 08:05:13.749 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 08:05:13.750 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 08:05:13.752 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 08:05:13.752 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 08:05:13.752 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 08:05:13.752 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154:  6993 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-      6994 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 08:06:20.613871
----------------------------------------------------------
-
-Sep 24 09:05:10.756 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 09:05:10.758 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 09:05:10.759 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 09:05:10.761 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 09:05:10.761 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 09:05:10.761 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 09:05:10.761 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154:  9176 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-      9177 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 09:06:04.036817
----------------------------------------------------------
-
-Sep 24 10:05:13.097 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 10:05:13.098 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 10:05:13.103 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 10:05:13.105 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 10:05:13.105 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 10:05:13.105 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 10:05:13.105 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 10818 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     10819 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 10:07:41.596309
----------------------------------------------------------
-
-Sep 24 11:05:07.489 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 11:05:07.490 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 11:05:07.495 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 11:05:07.497 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 11:05:07.497 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 11:05:07.497 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 11:05:07.497 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 12426 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     12427 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 11:06:02.813543
----------------------------------------------------------
-
-Sep 24 12:05:13.540 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 12:05:13.541 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 12:05:13.547 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 12:05:13.549 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 12:05:13.549 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 12:05:13.549 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 12:05:13.549 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 14232 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     14233 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 12:10:20.356282
----------------------------------------------------------
-
-Sep 24 13:05:13.590 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 13:05:13.590 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 13:05:13.592 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 13:05:13.594 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 13:05:13.594 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 13:05:13.594 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 13:05:13.594 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 15954 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     15955 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 13:06:19.305611
----------------------------------------------------------
-
-Sep 24 14:05:13.687 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 14:05:13.688 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 14:05:13.690 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 14:05:13.692 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 14:05:13.692 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 14:05:13.693 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 14:05:13.693 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 17596 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     17597 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 14:06:09.770286
----------------------------------------------------------
-
-Sep 24 15:05:08.883 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 15:05:08.884 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 15:05:08.888 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 15:05:08.890 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 15:05:08.890 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 15:05:08.890 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 15:05:08.890 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 19204 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     19205 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 15:06:06.772537
----------------------------------------------------------
-
-Sep 24 16:05:13.676 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 16:05:13.677 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 16:05:13.682 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 16:05:13.684 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 16:05:13.684 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 16:05:13.684 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 16:05:13.684 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 20851 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     20852 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 16:06:06.028141
----------------------------------------------------------
-
-Sep 24 17:05:15.093 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 17:05:15.094 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 17:05:15.096 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 17:05:15.097 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 17:05:15.097 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 17:05:15.097 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 17:05:15.097 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 22492 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     22493 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 17:06:17.351858
----------------------------------------------------------
-
-Sep 24 18:05:14.399 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 18:05:14.400 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 18:05:14.402 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 18:05:14.405 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 18:05:14.405 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 18:05:14.405 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 18:05:14.405 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 24132 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     24133 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 18:06:04.560416
----------------------------------------------------------
-
-Sep 24 19:05:13.388 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 19:05:13.389 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 19:05:13.390 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 19:05:13.392 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 19:05:13.392 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 19:05:13.392 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 19:05:13.392 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 25742 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     25743 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 19:06:04.564964
----------------------------------------------------------
-
-Sep 24 20:05:07.365 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 20:05:07.366 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 20:05:07.370 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 20:05:07.373 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 20:05:07.373 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 20:05:07.373 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 20:05:07.373 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 27909 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     27910 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 20:08:57.229166
----------------------------------------------------------
-
-Sep 24 21:05:13.771 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 21:05:13.772 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 21:05:13.773 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 21:05:13.775 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 21:05:13.775 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 21:05:13.775 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 21:05:13.775 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 29566 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     29567 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 21:06:08.102788
----------------------------------------------------------
-
-Sep 24 22:05:14.853 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 22:05:14.853 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 22:05:14.855 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 22:05:14.857 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 22:05:14.857 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 22:05:14.857 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 22:05:14.857 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 31209 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     31210 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 22:06:14.075443
----------------------------------------------------------
-
-Sep 24 23:05:15.054 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 24 23:05:15.055 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 24 23:05:15.057 [notice] Read configuration file "/etc/tor/torrc".
-Sep 24 23:05:15.059 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 24 23:05:15.059 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 24 23:05:15.059 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 24 23:05:15.059 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 32851 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     32852 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-24 23:07:14.293657
----------------------------------------------------------
-
-Sep 25 00:05:14.131 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 25 00:05:14.132 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 25 00:05:14.134 [notice] Read configuration file "/etc/tor/torrc".
-Sep 25 00:05:14.136 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 25 00:05:14.136 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 25 00:05:14.136 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 25 00:05:14.136 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 34707 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     34708 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-25 00:06:11.375580
----------------------------------------------------------
-
-Sep 25 01:05:13.702 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 25 01:05:13.703 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 25 01:05:13.710 [notice] Read configuration file "/etc/tor/torrc".
-Sep 25 01:05:13.712 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 25 01:05:13.712 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 25 01:05:13.712 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 25 01:05:13.712 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 37509 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     37510 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-25 01:06:16.778469
----------------------------------------------------------
-
-Sep 25 02:05:13.456 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 25 02:05:13.459 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 25 02:05:13.470 [notice] Read configuration file "/etc/tor/torrc".
-Sep 25 02:05:13.472 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 25 02:05:13.472 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 25 02:05:13.472 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 25 02:05:13.472 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 40515 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     40516 Killed                  | pandoc -f html > $file3
-updating_github : INFO : web updated to github
-2024-09-25 02:06:14.125796
----------------------------------------------------------
-
-Sep 25 03:05:13.471 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
-Sep 25 03:05:13.474 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
-Sep 25 03:05:13.476 [notice] Read configuration file "/etc/tor/torrc".
-Sep 25 03:05:13.478 [notice] Opening Socks listener on 127.0.0.1:9050
-Sep 25 03:05:13.478 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
-Sep 25 03:05:13.478 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
-Sep 25 03:05:13.478 [err] Reading config failed--see warnings above.
-./eventos.sh: line 154: 43512 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
-     43513 Killed                  | pandoc -f html > $file3
+Sep 25 04:05:13.992 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
+Sep 25 04:05:13.993 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Sep 25 04:05:13.996 [notice] Read configuration file "/etc/tor/torrc".
+Sep 25 04:05:13.998 [notice] Opening Socks listener on 127.0.0.1:9050
+Sep 25 04:05:13.998 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
+Sep 25 04:05:13.998 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
+Sep 25 04:05:13.998 [err] Reading config failed--see warnings above.
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+grep: id_25-09-2024.txt: No such file or directory
+./eventos.sh: line 154: 46056 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
+     46057 Killed                  | pandoc -f html > $file3
