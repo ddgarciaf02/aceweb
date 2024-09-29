@@ -118,3 +118,9 @@ Sep 29 13:12:20.853 [notice] Opening Socks listener on 127.0.0.1:9050
 Sep 29 13:12:20.853 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
 Sep 29 13:12:20.853 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
 Sep 29 13:12:20.853 [err] Reading config failed--see warnings above.
+updating_github : INFO : web updated to github
+2024-09-29 13:12:22.312832
+---------------------------------------------------------
+
+./eventos.sh: line 154: 31498 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
+     31499 Killed                  | pandoc -f html > $file3
