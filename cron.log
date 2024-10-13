@@ -150,3 +150,16 @@ Oct 13 15:05:13.221 [warn] Failed to parse/validate config: Failed to bind one o
 Oct 13 15:05:13.221 [err] Reading config failed--see warnings above.
 ./eventos.sh: line 154: 27180 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
      27181 Killed                  | pandoc -f html > $file3
+updating_github : INFO : web updated to github
+2024-10-13 15:06:06.280945
+---------------------------------------------------------
+
+Oct 13 16:05:08.071 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
+Oct 13 16:05:08.072 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Oct 13 16:05:08.075 [notice] Read configuration file "/etc/tor/torrc".
+Oct 13 16:05:08.076 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 13 16:05:08.076 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
+Oct 13 16:05:08.076 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
+Oct 13 16:05:08.076 [err] Reading config failed--see warnings above.
+./eventos.sh: line 154: 29668 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
+     29669 Killed                  | pandoc -f html > $file3
