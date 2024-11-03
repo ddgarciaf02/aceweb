@@ -131,3 +131,40 @@ Nov 03 07:14:28.099 [notice] Opening Socks listener on 127.0.0.1:9050
 Nov 03 07:14:28.099 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
 Nov 03 07:14:28.099 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
 Nov 03 07:14:28.099 [err] Reading config failed--see warnings above.
+updating_github : INFO : web updated to github
+2024-11-03 07:14:33.308898
+---------------------------------------------------------
+
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+grep: id_03-11-2024.txt: No such file or directory
+./eventos.sh: line 154:  7492 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
+      7493 Killed                  | pandoc -f html > $file3
