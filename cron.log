@@ -256,3 +256,47 @@ grep: id_08-11-2024.txt: No such file or directory
 grep: id_08-11-2024.txt: No such file or directory
 ./eventos.sh: line 154:  8656 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
       8657 Killed                  | pandoc -f html > $file3
+updating_github : INFO : web updated to github
+2024-11-08 09:07:22.616258
+---------------------------------------------------------
+
+Nov 08 10:05:09.496 [notice] Tor 0.4.6.10 running on Linux with Libevent 2.1.12-stable, OpenSSL 3.0.2, Zlib 1.2.11, Liblzma 5.2.5, Libzstd 1.4.8 and Glibc 2.35 as libc.
+Nov 08 10:05:09.496 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://support.torproject.org/faq/staying-anonymous/
+Nov 08 10:05:09.498 [notice] Read configuration file "/etc/tor/torrc".
+Nov 08 10:05:09.500 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 08 10:05:09.500 [warn] Could not bind to 127.0.0.1:9050: Address already in use. Is Tor already running?
+Nov 08 10:05:09.500 [warn] Failed to parse/validate config: Failed to bind one of the listener ports.
+Nov 08 10:05:09.500 [err] Reading config failed--see warnings above.
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+grep: id_08-11-2024.txt: No such file or directory
+./eventos.sh: line 154: 10344 Done                    curl -s https://www.futbolenlatv.es/deporte/baloncesto
+     10345 Killed                  | pandoc -f html > $file3
