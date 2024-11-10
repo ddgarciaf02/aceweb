@@ -1,0 +1,2 @@
+./eventos.sh: line 113: 26193 Done                    curl -s --max-time 5 https://www.futbolenlatv.es/deporte/baloncesto
+     26194 Killed                  | pandoc -f html > $file3
