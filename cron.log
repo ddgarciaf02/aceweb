@@ -4,3 +4,7 @@ updating_github : ERROR : some error occured while pushing the code
 
 ./eventos.sh: line 113:  1397 Done                    curl -s --max-time 5 https://www.futbolenlatv.es/deporte/baloncesto
       1398 Killed                  | pandoc -f html > $file3
+updating_github : INFO : web updated to github
+2024-11-22 05:35:52.994674
+---------------------------------------------------------
+
