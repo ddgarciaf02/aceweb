@@ -20,3 +20,7 @@ updating_github : INFO : web updated to github
 2024-11-24 07:16:32.796066
 ---------------------------------------------------------
 
+updating_github : ERROR : some error occured while pushing the code
+2024-11-24 08:05:02.773771
+---------------------------------------------------------
+
