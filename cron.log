@@ -58,3 +58,7 @@ updating_github : INFO : web updated to github
 2024-12-02 14:06:07.284620
 ---------------------------------------------------------
 
+updating_github : ERROR : some error occured while pushing the code
+2024-12-02 15:05:03.347068
+---------------------------------------------------------
+
