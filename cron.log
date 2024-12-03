@@ -14,3 +14,9 @@ updating_github : INFO : web updated to github
 
 ./eventos.sh: line 113:  3808 Done                    curl -s --max-time 5 https://www.futbolenlatv.es/deporte/baloncesto
       3809 Killed                  | pandoc -f html > $file3
+updating_github : INFO : web updated to github
+2024-12-03 07:05:52.798505
+---------------------------------------------------------
+
+./eventos.sh: line 113:  4924 Done                    curl -s --max-time 5 https://www.futbolenlatv.es/deporte/baloncesto
+      4925 Killed                  | pandoc -f html > $file3
